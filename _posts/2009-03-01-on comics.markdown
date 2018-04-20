@@ -1,0 +1,12 @@
+---
+layout: post
+title: "On Comics"
+date: 2009-03-01 12:00:00 +0100
+categories: 
+---
+		
+Tonight Katy gave me a link to a talk by Scott McCloud on TED Talks, [Understand Comics](https://www.ted.com/talks/scott_mccloud_on_comics) – later I realised that he was the author of the book on comics that was lying around our studio in first year. Apart from being a really fun presentation he demos a couple of interesting web-based comics which I tracked down: [Pup Ponders the Heat Death of the Universe](http://www.drewweing.com/puppages/13pup.html) and [PoCom-UK-001](http://e-merl.com/pocom.htm) (which I was surprised and happy to see includes a small excerpt from the Acme Novelty Library #19 by Chris Ware – it’s the bit in space). I’ve been reading webcomics for years but this is the first time I’ve come across so-called “hypercomics.”
+
+In his talk McCloud discusses the progression of comics as new technology arises, ie. print, and how in the early nineties he foresaw things playing out as the personal computer became popular. Hypercomics are basically comic strips which take advantage of the unique qualities of the computer screen and the website as a way to experiment and push the medium in new directions. For example in PoCom-UK-001 an infinite scrolling page allows for a large amount of cells onscreen and multiple diverging storylines.
+
+I also liked his McLuhan reference where when an old medium is represented in a new medium the shape is often mistaken for the content, and we see this happening with comic pages inserted directly into websites.
