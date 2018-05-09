@@ -4,8 +4,8 @@ title: "About"
 permalink: /about/
 ---
 
-[LinkedIn](http://www.linkedin.com/in/neildawson)  
-[Twitter](http://www.twitter.com/neildawson)  
-[Lanyrd](http://lanyrd.com/profile/neildawson)  
-[Instagram](https://www.instagram.com/)  
-[Last.fm](https://www.last.fm/user/deepthought)  
+I'm a Scottish interaction designer living and working in London.
+
+I enjoy snowboarding, photography, and guitar, but I especially love the stories, worlds, and lore of fantasy and sci-fi: books, video games, graphic novels, and film.
+
+Find me on [Instagram](https://www.instagram.com/terminalveracity/), [Last.fm](https://www.last.fm/user/deepthought), and [Twitter](http://www.twitter.com/neildawson).

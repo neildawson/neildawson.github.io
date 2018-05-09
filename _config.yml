@@ -16,11 +16,12 @@
 title: Neil Dawson
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Senior experience designer in London, UK.
+  Senior experience designer in London
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: neildawson
-github_username:  neildawson
+linkedin_username:  neildawson
+instagram_username:  terminalveracity
 
 # Build settings
 markdown: kramdown
