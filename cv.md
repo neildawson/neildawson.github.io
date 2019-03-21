@@ -27,7 +27,7 @@ writing, presenting, collaborating, public speaking
 
 ## Experience
 ### Senior Experience Designer, AnalogFolk
-September 2015 – Present
+September 2015 – September 2018
 
 - Led feature planning, prototyping, and guerrilla testing of Nando's combined delivery and collection service.
 - Led research, user testing with children, and design for Sainsbury's [*Story Studio*](https://www.analogfolk.com/work/story-studio), a stop-motion movie app for iOS and Android **used to create tens of thousands of movies on Christmas Day**.
@@ -39,7 +39,7 @@ September 2015 – Present
 - Worked closely with Dulux to improve key journeys in their custom paint ordering service, [*Amazing Space Paint*](https://www.analogfolk.com/work/amazing-space-paint), based on detailed analytics and focus group findings.
 - Led a one day **rapid/paper prototyping workshop** for staff at AXA PPP Healthcare.
 
-### Senior User Experience Designer, Cyber-Duck
+### Junior &#8594; Senior User Experience Designer, Cyber-Duck
 June 2011 – August 2015
 
 - Project manager and UX lead on more than 15 projects.
