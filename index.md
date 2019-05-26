@@ -3,9 +3,10 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: Senior Experience Designer
 ---
-# I'm a senior experience designer
+# I fight for the users
 
-I'm currently in Canada and will be returning to London in late May, when I'll be looking for a new position.
+I'm a senior experience designer looking for a new senior or lead position in London.
 
-In the meantime, check [my CV]({% link cv.md %}) and get in touch with me on [LinkedIn](http://www.linkedin.com/in/neildawson) if you'd like to connect when I'm back.
+Check [my CV]({% link cv.md %}) and get in touch with me on [LinkedIn](http://www.linkedin.com/in/neildawson).
