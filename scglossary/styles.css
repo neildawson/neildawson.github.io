@@ -1,0 +1,442 @@
+/* GENERIC ELEMENTS
+---------------------------------------- */
+
+body {
+	font-family: Arial, sans-serif;
+	background: url('images/office.png') #1b1b1b;
+	color: #fff;
+	padding: 20px;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+a {
+	color: #fff;
+	transition: color .5s;
+	transition: text-shadow .2s;
+}
+
+a:visited {
+	color: #999;
+}
+
+a:hover {
+	color: #00e7ff;
+	transition: color none;
+	text-shadow: 0px 0px 5px #00e7ff;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: "Electrolize", sans-serif;
+	text-transform: uppercase;
+	-webkit-transform: skewX(-15deg) skewY(-2deg);
+	text-shadow: 0px 0px 10px rgba(255,255,255,.6);
+	margin-bottom: 0px;
+	clear: all;
+}
+
+h2 {
+	padding-top: 1em;
+	color: #00e7ff;
+	font-family: "Electrolize", sans-serif;
+	border-bottom: 1px solid #00e7ff;
+}
+
+
+
+/* PAGE STRUCTURE AND LAYOUT
+---------------------------------------- */
+
+.menu {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.abbreviations {
+	padding-bottom: 30px;
+}
+
+@media (min-width: 500px) and (max-width: 910px) {
+	.terms {
+		width: 55%;
+		float: left;
+		padding-right: 20px;
+		box-sizing: border-box;
+		padding-bottom: 50px;
+	}
+
+	.abbreviations {
+		width: 45%;
+		float: right;
+		padding-left: 20px;
+		box-sizing: border-box;
+		padding-bottom: 50px;
+	}
+
+}
+
+
+@media (min-width: 910px) {
+
+	h1 {
+		float: left;
+		padding-top: 1em;
+	}
+
+	.menu {
+		display: none;
+	}
+
+	.container {
+		width: 850px;
+		margin: 0px auto;
+	}
+
+	.content {
+		float: right;
+		width: 500px;
+		padding-bottom: 30px;
+		margin-bottom: 40px;
+		padding-left: 50px;
+		border-left: 1px solid #00e7ff;
+	}
+
+	.terms, .abbreviations {
+		float: left;
+		width: 250px;
+	}
+
+}
+
+@media (min-width: 1250px) {
+
+	.container {
+		width: 1160px;
+	}
+
+	h1 {
+		width: 540px;
+	}
+
+	.terms {
+		width: 320px;
+		clear: left;
+	}
+
+	.abbreviations {
+		width: 200px;
+		margin-left: 40px;
+	}
+
+}
+
+
+
+
+/* SPECIFIC ELEMENTS
+---------------------------------------- */
+
+.tagline {
+	font-weight: normal;
+	text-transform: none;
+	text-shadow: none;
+	font-size: 12px;
+	display: inline-block;
+	margin-top: 5px;
+}
+
+.tagline a {
+	text-decoration: none;
+}
+
+.button {
+	text-transform: uppercase;
+	font-family: "Electrolize", sans-serif;
+	text-decoration: none;
+	background-color: #333;
+	padding: 10px;
+	padding-right: 15px;
+	text-align: center;
+	border-radius: 20px;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.button::before {
+	content: "";
+	width: 10px;
+	height: 10px;
+	border-radius: 10px;
+	display: inline-block;
+	margin-right: 8px;
+	border: 3px solid #00e7ff;
+	position: relative;
+	top: .15em;
+	background-color: rgba(0,231,255,.2);
+	margin-right: 15px;
+	box-shadow: 0px 0px 2px 5px rgba(0,231,255,.2),
+				0px 0px 5px 10px rgba(0,231,255,.1);
+	transition: box-shadow .2s ease;
+}
+
+.button:hover::before {
+	box-shadow: 0px 0px 4px 7px rgba(0,231,255,.2),
+				0px 0px 5px 15px rgba(0,231,255,.1);
+}
+
+.top {
+	display: block;
+	clear: both;
+}
+
+.nav {
+	list-style-type: none;
+	padding-left: 0px;
+	font-family: "Electrolize", sans-serif;
+	border-top: 1px solid #333;
+}
+
+.nav a {
+	background-color: none;
+	display: block;
+	text-decoration: none;
+	padding: 5px;
+	padding-left: 30px;
+	border-bottom: 1px solid #333;
+	box-sizing: border-box;
+}
+
+.nav a:hover {
+	background-color: #333;
+}
+
+.label::before {
+	content: "";
+	color: #00e7ff;
+	position: absolute;
+	display: inline-block;
+	text-transform: uppercase;
+	margin-left: -22px;
+}
+
+.a:before {
+	content: "a";
+}
+
+.b:before {
+	content: "b";
+}
+
+.c:before {
+	content: "c";
+}
+
+.d:before {
+	content: "d";
+}
+
+.e:before {
+	content: "e";
+}
+
+.f:before {
+	content: "f";
+}
+
+.g:before {
+	content: "g";
+}
+
+.h:before {
+	content: "h";
+}
+
+.i:before {
+	content: "i";
+}
+
+.j:before {
+	content: "j";
+}
+
+.k:before {
+	content: "k";
+}
+
+.l:before {
+	content: "l";
+}
+
+.m:before {
+	content: "m";
+}
+
+.n:before {
+	content: "n";
+}
+
+.o:before {
+	content: "o";
+}
+
+.p:before {
+	content: "p";
+}
+
+.q:before {
+	content: "q";
+}
+
+.r:before {
+	content: "r";
+}
+
+.s:before {
+	content: "s";
+}
+
+.t:before {
+	content: "t";
+}
+
+.u:before {
+	content: "u";
+}
+
+.v:before {
+	content: "v";
+}
+
+.w:before {
+	content: "w";
+}
+
+.x:before {
+	content: "x";
+}
+
+.y:before {
+	content: "y";
+}
+
+.z:before {
+	content: "z";
+}
+
+.nav.li:last-child a {
+	border-bottom: 0px;
+}
+
+.uiexample {
+	list-style-type: none;
+	padding-left: 20px;
+}
+
+.uiexample li::before {
+	content: "";
+	width: 20px;
+	height: 20px;
+	border-radius: 10px;
+	display: inline-block;
+	margin-right: 8px;
+	position: relative;
+	top: .3em;
+	margin-top: 5px;
+}
+
+.uiexample .neutral::before {
+	background-color: #6addfb;
+}
+
+.uiexample .positive::before {
+	background-color: #6ffe64;
+}
+
+.uiexample .moderate::before {
+	background-color: #ffc250;
+}
+
+.uiexample .hostile::before {
+	background-color: #ff6e51;
+}
+
+.uiexample .critical::before {
+	background-color: #f80016;
+}
+
+.external {
+	padding-right: 1px;
+	/*display: inline-block;*/
+}
+
+.external::after {
+	content: "\2192";
+	font-size: .8em;
+	color: #fff;
+	-webkit-transform: rotate(-45deg);
+	display: inline-block;
+	position: relative;
+	bottom: .1em;
+}
+
+.external:visited::after {
+	color: #999;
+}
+
+.external:hover::after {
+	color: #00e7ff;
+}
+
+
+
+/* GRAPHICS
+---------------------------------------- */
+
+i.example {
+	display: block;	
+	float: right;
+	margin-left: 10px;
+	display: inline-block;
+}
+
+i.example::before {
+	display: inline-block;
+}
+
+.los, .sc {
+	width: 30px;
+	height: 30px;
+	border: 2px solid #6addfb;
+	border-radius: 20px;
+}
+
+.los::before, .fs::before {
+	content: "";
+	background: #6addfb;
+	width: 4px;
+	height: 4px;
+	position: relative;
+	left: 13px;
+	border-radius: 5px;
+}
+
+.fs {
+	width: 30px;
+	height: 30px;
+	border: 2px solid #6ffe64;
+	-webkit-transform: rotate(45deg);
+}
+
+.fs::before {
+	background-color: #6ffe64;
+}
+
+.sc::before {
+	width: 20px;
+	width: 10px;
+	background-color: #6addfb;
+}
