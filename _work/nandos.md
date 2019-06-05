@@ -20,6 +20,13 @@ In 2018 we came on board to merge collection into the newer delivery system, and
 - Stakeholder liaison
 - Development liaison
 
+**Results**
+
+In the first twelve months of optimisation:
+
+- Conversion rate increased **41.45%**
+- Average order value increased **2.12%**
+
 <br/>
 
 -----
@@ -47,7 +54,7 @@ In each sprint we tackled a few user stories and planned our process to suit.
 
 <br/>
 
-## Process
+## Design
 ### Streamlining registration and log in during check out
 
 Our main objective was to better integrate registration into the check out flow. In the pre-existing journey, unregistered users trying to check out were routed to the registration journey, then back to check out. The step tracker didn’t reflect this, showing the user stuck on the first step of check out even as they navigated multiple pages to register. Wording made it difficult to find the registration option, and the form itself repeated fields from other pages.
@@ -122,15 +129,3 @@ We condensed restaurant details into an expandable, reusable module. Only the mo
 At every step we looked for ways to speed up the process for returning users. When you return, you can jump straight to the menu with your last restaurant and fulfilment method selected.
 
 From the menu you can quickly add one of your recent orders to the basket, and use the tools there to tweak it before check out. This replaced an under-utilised favourites system.
-
-<br/>
-
------
-
-<br/>
-
-## Results
-In our first twelve months optimising the existing site and laying the groundwork for the combined service:
-
-- Conversion rate increased by **41.45%**
-- Average order value increased by **2.12%**
