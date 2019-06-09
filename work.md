@@ -10,7 +10,7 @@ Professional projects.
   {%- for work in site.work -%}
   <li>
     <h3>
-      <a class="post-link" href="{{ work.url | relative_url }}">
+      <a class="post-link" href="{{ work.url | remove: '.html' | relative_url }}">
         {{ work.title | escape }}
       </a>
     </h3>

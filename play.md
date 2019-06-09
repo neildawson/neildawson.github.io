@@ -10,7 +10,7 @@ Personal projects.
   {%- for play in site.play -%}
   <li>
     <h3>
-      <a class="post-link" href="{{ play.url | relative_url }}">
+      <a class="post-link" href="{{ play.url | remove: '.html' | relative_url }}">
         {{ play.title | escape }}
       </a>
     </h3>

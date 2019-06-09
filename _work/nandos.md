@@ -16,8 +16,8 @@ In 2018 we came on board to merge collection into the newer delivery system, and
 - Research
 - Feature planning
 - Prototyping
-- Guerilla testing
-- Stakeholder liaison
+- Guerrilla testing
+- Client liaison
 - Development liaison
 
 **Results**
@@ -76,7 +76,7 @@ We took inspiration from Metro Bank’s principle of avoiding shutters and glass
 
 ### From concept to reality
 
-I integrated the two-step log in process into a **responsive Axure RP prototype** of the whole ordering journey, including form logic to recognise email addresses so we could test flows for recognised and unrecognised users. I conducted four rounds of **user testing** with the prototype, including two guerilla sessions in Nando’s restaurants.
+I integrated the two-step log in process into a **responsive Axure RP prototype** of the whole ordering journey, including form logic to recognise email addresses so we could test flows for recognised and unrecognised users. I conducted four rounds of **user testing** with the prototype, including two guerrilla sessions in Nando’s restaurants.
 
 ![Axure RP prototype of the check out journey running on mobile]({{ "/assets/nandos/prototype.jpg" | absolute_url }})
 <span class="post-meta">Axure RP prototype of the check out journey running on mobile – the customer's email address has been recognised, so they see a login form instead of a registration form</span>
