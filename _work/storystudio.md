@@ -10,7 +10,7 @@ Every year, UK brands compete to create the most memorable Christmas ad. In 2016
 
 In Sainsbury's stores across the UK, fans could buy a gift box including  pop-out characters and sets from the ad. We created a bespoke stop-motion movie app for iOS and Android, empowering children to create their own masterpieces in the world of *The Greatest Gift* – and beyond!
 
-![Box set]({{ "/assets/storystudio/box.jpg" | absolute_url }})
+![Box set]({{ "/assets/storystudio/hero.jpg" | absolute_url }})
 <span class="post-meta">*The Greatest Gift* box set, sold in Sainsbury's stores across the UK</span>
 
 **My responsibilities**

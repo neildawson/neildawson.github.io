@@ -1,11 +1,21 @@
 ---
 layout: page
 title: "Yearbooks"
-short_description: "An annual project to document my experiences"
+short_description: "An annual photo diary"
 ---
 
 # {{ page.short_description }}
 
-What did you do in 2016? Probably a lot more than you remember. I set out to record my year, not just in photographs, but also in the books, games, shows, exhibitions, and other experiences I had.
+Like most, I have hundreds of digital photographs in my library, rarely seen. In 2016 I set out to make a physical record of my year, not just in photographs, but also in the books, games, shows, exhibitions, and other experiences I had.
 
-Now the 2016 and 2017 books are printed, 2018 is in progress, and I’m using what I learned in a more ambitious project to create a coffee table book of my trip to Iran in 2013.
+So far I've completed yearbooks for 2016 and 2017, with 2018 in progress.
+
+![2016 cover design]({{ "/assets/yearbooks/2016.jpg" | absolute_url }})
+<span class="post-meta">2016 cover design by Ana Iugulescu</span>
+
+![2016 interior]({{ "/assets/yearbooks/2016-photo.jpg" | absolute_url }})
+
+![2017 cover design]({{ "/assets/yearbooks/2017.jpg" | absolute_url }})
+<span class="post-meta">2017 cover design by [Michael Hacker](http://www.michaelhacker.at/)</span>
+
+![2017 interior]({{ "/assets/yearbooks/2017-photo.jpg" | absolute_url }})

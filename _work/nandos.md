@@ -12,6 +12,9 @@ Collection had been around for a while and [customers were excited for home deli
 
 In 2018 we came on board to merge collection into the newer delivery system, and improve both journeys in the process.
 
+![Ordering from the new combined site]({{ "/assets/nandos/hero.jpg" | absolute_url }})
+<span class="post-meta">Ordering from the new combined site</span>
+
 **My responsibilities**
 - Research
 - Feature planning

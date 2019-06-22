@@ -7,6 +7,6 @@ title: Senior Experience Designer
 ---
 # I fight for the users
 
-I'm a senior experience designer looking for a new senior or lead position in London.
+Senior experience designer in London
 
-Check [my CV]({% link cv.md %}) and get in touch with me on [LinkedIn](http://www.linkedin.com/in/neildawson).
+Get in touch with me on [LinkedIn](http://www.linkedin.com/in/neildawson)

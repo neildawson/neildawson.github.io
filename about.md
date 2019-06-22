@@ -4,8 +4,16 @@ title: "About"
 permalink: /about/
 ---
 
-I'm a Scottish interaction designer living and working in London.
+![It's me]({{ "/assets/about/neil.jpg" | absolute_url }})
 
-I enjoy snowboarding, photography, and guitar, but I especially love the stories, worlds, and lore of fantasy and sci-fi: books, video games, graphic novels, and film.
+Professional designer
 
-Find me on [Instagram](https://www.instagram.com/terminalveracity/), [Last.fm](https://www.last.fm/user/deepthought), and [Twitter](http://www.twitter.com/neildawson).
+Intermediate snowboarder
+
+Amateur photographer
+
+Enthusiastic gamer
+
+Mediocre guitarist
+
+Find me on [Instagram](https://www.instagram.com/terminalveracity/), [Last.fm](https://www.last.fm/user/deepthought), and [Twitter](http://www.twitter.com/neildawson)
