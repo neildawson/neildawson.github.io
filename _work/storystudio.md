@@ -6,12 +6,12 @@ short_description: "A kids stop-motion movie app for the supermarket's 2016 Chri
 
 # {{ page.short_description }}
 
+![Box set]({{ "/assets/storystudio/hero.jpg" | absolute_url }})
+<span class="post-meta">*The Greatest Gift* box set, sold in Sainsbury's stores across the UK</span>
+
 Every year, UK brands compete to create the most memorable Christmas ad. In 2016 Sainsbury's pulled out all the stops for [*The Greatest Gift*](https://www.youtube.com/watch?v=bq5SGSCZe4E): three and a half minutes of stop-motion animation and a soundtrack by [Bret McKenzie](https://en.wikipedia.org/wiki/Bret_McKenzie) and [James Corden](https://en.wikipedia.org/wiki/James_Corden).
 
 In Sainsbury's stores across the UK, fans could buy a gift box including  pop-out characters and sets from the ad. We created a bespoke stop-motion movie app for iOS and Android, empowering children to create their own masterpieces in the world of *The Greatest Gift* – and beyond!
-
-![Box set]({{ "/assets/storystudio/hero.jpg" | absolute_url }})
-<span class="post-meta">*The Greatest Gift* box set, sold in Sainsbury's stores across the UK</span>
 
 **My responsibilities**
 - Formative research
@@ -64,7 +64,7 @@ Based on this research, the tech lead, visual designer, and I performed a **sort
 
 ### Outlining the app
 
-I fleshed out list of features with an **app map** to ensure the number of views we were planning was within scope, and to establish an early model of the user journey.
+I fleshed out the list of features with an **app map** to ensure the number of views we were planning was within scope, and to establish an early model of the user journey.
 
 ![App map]({{ "/assets/storystudio/appmap.png" | absolute_url }})
 <span class="post-meta">The fourth and final version of the app map, with key user journeys highlighted in blue and orange</span>

@@ -6,14 +6,14 @@ short_description: "Merging distinct delivery and collection ordering systems in
 
 # {{ page.short_description }}
 
+![Ordering from the new combined site]({{ "/assets/nandos/hero.jpg" | absolute_url }})
+<span class="post-meta">Ordering from the new combined site</span>
+
 In late 2017 Nando’s began rolling out a home delivery service to their restaurants.
 
 Collection had been around for a while and [customers were excited for home delivery](http://www.ladbible.com/news/food-uk-nandos-has-officially-launched-its-own-delivery-service-20171105) from the UK’s top casual dining restaurant, but the two ordering options had completely distinct experiences.
 
 In 2018 we came on board to merge collection into the newer delivery system, and improve both journeys in the process.
-
-![Ordering from the new combined site]({{ "/assets/nandos/hero.jpg" | absolute_url }})
-<span class="post-meta">Ordering from the new combined site</span>
 
 **My responsibilities**
 - Research
