@@ -39,7 +39,7 @@ Our target audience was digital creatives looking to expand their knowledge. We 
 ![Three views: the article index, description, and resources]({{ "/assets/uxcompanion/screens.jpg" | absolute_url }})
 <span class="post-meta">Three views: the article index, description, and resources</span>
 
-Topics can be browsed from the searchable index view, and each topic has a 50-character summary, a 100-word description, and 2-5 resources for further reading. We hand-picked every resource to ensure a range of mediums and complexity.
+Topics can be browsed from the searchable index view, and each topic has a one-line summary, a short description, and a few resources for further reading. We hand-picked every resource to ensure a range of mediums and complexity.
 
 ## UX Companion today
 
