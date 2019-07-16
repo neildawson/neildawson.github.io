@@ -35,6 +35,12 @@ plugins:
   - jekyll-feed
 permalink: /blog/:title.html
 google_analytics: UA-118251845-1
+header_pages: 
+ - work.md 
+ - play.md 
+ - cv.md
+ - about.md
+ - blog.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
