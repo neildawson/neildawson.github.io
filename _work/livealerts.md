@@ -8,13 +8,15 @@ short_description: "Bending a commercial tool into meaningful, timely notificati
 
 The credit reporting system is designed for lenders, not consumers. These days we can all access our reports, but it’s usually still difficult to make sense of all the data. 
 
-When TotallyMoney gained access to a new daily feed of significant credit report changes, we set out to bend this tool for lenders into a customer-centric service. Our aim was to improve engagement by sending timely, personalised notifications.
+When TotallyMoney gained access to a new daily feed of significant credit report changes, we set out to bend this tool for lenders into a customer-centric service, while boosting app engagement.
 
 Timely messages to customers about meaningful changes in their credit profile easily outperformed our typical reactive emails, and made a great test bed for our first push notifications.
 
 **My responsibilities**
-- Analysis 
-- 
+- Analysed and documented the API
+- Jointly selected our first alert
+- Revamped UI and IA for native and web
+- Drafted and A/B tested copy options
 
 **Results**
 - 37.04% click-to-open rate on our first alert
@@ -62,11 +64,23 @@ We were confident there was real customer value to be had.
 
 I pushed to include a redesign of the searches area as part of this project, so we’d have a satisfying end-to-end journey.
 
+<br/>
+
+----
+
+<br/>
+
 ## Design
 
 Besides tidying up the broken UI and improving the IA, I was also keen to improve our explanation of the distinction between the two types of searches. 
 
 I won’t dwell too much on how I got there, as these things are covered in my other case studies, so in summary I: mapped potential journeys, facilitated a sketching workshop, collaborated with our UI specialist on required components not found in our design system, carried out ad-hoc testing of the new IA with some colleagues, and drafted copy for email and push notifications – amongst other things!
+
+<br/>
+
+----
+
+<br/>
 
 ## Results
 
