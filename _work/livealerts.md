@@ -16,7 +16,7 @@ Timely messages to customers about meaningful changes in their credit profile ea
 - Analysed and documented the API
 - Jointly selected our first alert
 - Revamped UI and IA for native and web
-- Drafted and A/B tested copy options
+- Drafted and A/B tested copy for email and push
 
 **Results**
 - 37.04% click-to-open rate on our first alert
@@ -44,16 +44,16 @@ Steadily whittling down the 200 items to shorter and shorter lists, we settled o
 
 Every time an organisation looks at your credit report, they leave a footprint in the form of a search record. They come in “hard” and “soft” varieties, and the former are more meaningful for a couple of reasons.
 
-### Why this alert?
-
 Hard searches usually only happen when you apply for credit, and lenders are hesitant to lend if you make too many applications in a short time.
 
-So every hard search was an opportunity to:
+### Why this alert?
+
+Every new hard search recorded on a customer's credit report was an opportunity to:
 
 - **Show customers how their actions were represented in their report**. We knew much of the credit report was mystifying to our customers. Here we could demonstrate cause and effect.
 - **Prevent rejections caused by too many applications**. We knew it was not common knowledge that multiple hard searches can count against you. 
 - **Say something timely**. Most of the other alerts were weeks or months old, due to lender reporting delays. In this case you’d be notified the same day your report changed.
-- **Spot identify fraud immediately**. We didn’t expect it to happen often, but we’d still be showing customers we were looking out for them.
+- **Spot identity fraud immediately**. We didn’t expect it to happen often, but we’d still be showing customers we were looking out for them.
 
 We were confident there was real customer value to be had.
 
@@ -82,7 +82,7 @@ I won’t dwell too much on how I got there, as these things are covered in my o
 
 <br/>
 
-## Results
+## Results and reflections
 
 ### Excellent open rates
 
