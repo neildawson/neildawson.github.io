@@ -1,0 +1,554 @@
+/* TYPOGRAPHY
+-------------------------------------------------- */
+
+@font-face {
+    font-family: 'geomanistregular';
+    src: url('fonts/geomanist-bold-webfont.eot');
+    src: url('fonts/geomanist-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/geomanist-bold-webfont.woff2') format('woff2'),
+         url('fonts/geomanist-bold-webfont.woff') format('woff'),
+         url('fonts/geomanist-bold-webfont.ttf') format('truetype'),
+         url('fonts/geomanist-bold-webfont.svg#geomanistregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'geomanistultra';
+    src: url('fonts/geomanist-ultra-webfont.eot');
+    src: url('fonts/geomanist-ultra-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/geomanist-ultra-webfont.woff2') format('woff2'),
+         url('fonts/geomanist-ultra-webfont.woff') format('woff'),
+         url('fonts/geomanist-ultra-webfont.ttf') format('truetype'),
+         url('fonts/geomanist-ultra-webfont.svg#geomanistregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a {
+	text-decoration: none;
+	border-bottom: 2px solid #266;
+	color: #266;
+/*    transition: border-width .05s linear;
+*/}
+
+a:hover {
+	border-width: 4px;
+}
+
+h1, h2, h3 {
+    font-family: 'geomanistregular';
+    font-weight: normal;
+	line-height: 1;
+}
+
+h1 {
+	font-size: 2.5em;
+	margin-bottom: 0;
+	margin-top: .3em;
+}
+
+h2 {
+	font-size: 2em;
+	margin-top: 1.8em;
+	margin-bottom: .5em;
+}
+
+h3 {
+	font-size: 1.5em;
+}
+
+.statement {
+	font-family: 'geomanistultra';
+	text-transform: uppercase;
+	font-size: 100px;
+	line-height: .9;
+	text-align: center;
+	display: inline-block;
+	color: #113333;
+}
+
+body {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 14px;
+	line-height: 1.6;
+    margin: 0 auto;
+}
+
+figure {
+	margin: 0;
+}
+
+.social {
+	height: .7em;
+	display: inline;
+}
+
+
+@media (min-width: 700px) and (max-width: 1000px) {
+
+	body {
+		font-size: 18px;
+	}
+
+}
+
+@media (min-width: 1000px) and (max-width: 1440px) {
+
+	body {
+		padding: 4em 0 10em 210px;
+		width: 90%;
+		max-width: 1280px;
+		font-size: 18px;
+		box-sizing: border-box;
+    }
+
+	h1 {
+		font-size: 4em;
+	}
+
+	h2 {
+		font-size: 3em;
+	}
+
+	h3 {
+		font-size: 2em;
+	}
+
+}
+
+
+/* ARTICLE LAYOUT
+-------------------------------------------------- */
+
+article {
+	margin-bottom: 8em;
+}
+
+article > figure {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	color: grey;
+}
+
+article > figure img {
+	width: 100%;
+}
+
+article > figure figcaption {
+	font-size: .8em;
+	padding-top: 10px;
+}
+
+.parent, .more {
+	width: 90%;
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.more {
+	text-align: center;
+	margin-top: 4em;
+}
+
+article > * {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-width: 700px;
+}
+
+article > ul {
+	width: calc(90% - 20px);
+	padding-right: 10px;
+}
+
+article li {
+	margin-bottom: 0.5em;
+}
+
+article img {
+	display: block;
+}
+
+article img.hero {
+	margin-bottom: 3em;
+}
+
+.intro {
+	font-size: 1.5em;
+	margin-top: .5em;
+	line-height: 1.4em;
+}
+
+.hero {
+	width: 100%;
+	max-width: 1280px;
+}
+
+.details {
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+
+.details figure figcaption {
+	font-family: 'geomanistregular';
+	font-size: 1.2em;
+}
+
+.highlight {
+	font-weight: normal;
+	background: #ff6;
+	padding: 0 1px;
+}
+
+blockquote {
+	padding-left: 1em;
+	border-left: 5px solid lightgrey;
+	font-style: italic;
+	box-sizing: border-box;
+}
+
+@media (min-width: 500px) {
+
+	.details {
+		display: flex;
+	}
+
+	.details figure {
+		flex: 1;
+	}
+
+	article > ul {
+		width: calc(90% - 30px);
+		padding-right: 10px;
+	}
+
+}
+
+@media (min-width: 1000px) and (max-width: 1440px) {
+
+	article > * {
+		width: 70%;
+	}
+
+	.intro {
+		font-size: 2em;
+	}
+
+	.parent, .more {
+		width: 70%;
+	}
+
+	article > ul {
+		width: calc(70% - 50px);
+		padding-right: 10px;
+	}
+
+	article .wide {
+		width: 100%;
+	    max-width: 100%;
+	}
+
+}
+
+
+
+/* POSTS
+-------------------------------------------------- */
+
+.posts {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.posts a {
+	display: block;
+	padding: 1.5em 0;
+	color: #000;
+	border-bottom: 0;
+  	transition: transform 0.15s;
+}
+
+.posts a:hover {
+	transform: scale(1.05);
+}
+
+.posts a:hover .title {
+	background-image: linear-gradient(black 0%, black 100%);
+	background-position: 0 1.15em;
+	background-size: 1px 4px;
+	background-repeat: repeat-x;
+}
+
+.posts .title {
+	font-size: 1.8em;
+	font-family: 'geomanistregular';
+	line-height: 1.1em;
+}
+
+@media (min-width: 700px) {
+
+	.posts {
+		width: 70%;
+	}
+
+}
+
+/* INDEX
+-------------------------------------------------- */
+
+.index {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.index p {
+	margin-top: .3em;
+}
+
+.card {
+	display: inline-block;
+	border-bottom: 0px;
+	color: #000;
+	margin-bottom: 40px;
+  	transition: transform 0.15s ease;
+}
+
+.card .title {
+	font-family: 'geomanistregular';
+	font-size: 1.6em;
+	line-height: 1.15;
+}
+
+.card img {
+	width: 100%;
+	padding-bottom: 13px;
+}
+
+.card:hover {
+	transform: scale(1.05);
+}
+
+.card:hover .title {
+	background-image: linear-gradient(black 0%, black 100%);
+	background-position: 0 1.15em;
+	background-repeat: repeat-x;
+	background-size: 1px 4px;
+}
+
+
+@media (min-width: 600px) {
+
+	.card {
+		width: calc(50% - 20px);
+		margin-bottom: 80px;
+	}
+
+	.card:nth-child(odd) {
+		margin-right: 40px;
+	}
+
+}
+
+
+@media (min-width: 1000px) {
+
+	.card {
+		width: calc(50% - 30px);
+	}
+
+	.index {
+		width: 100%;
+	}
+
+	.card:nth-child(odd) {
+		margin-right: 60px;
+	}
+
+}
+
+/* CLIENTS
+-------------------------------------------------- */
+
+.clients {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.clients p {
+	width: 100%;
+	font-family: 'geomanistregular';
+	text-align: center;
+	font-size: 1.6em;
+	margin-top: 0;
+}
+
+.clients img {
+	padding: 0 20px;
+	box-sizing: border-box;
+	width: 50%;
+	object-fit: contain;
+}
+
+
+@media (min-width: 600px) {
+
+	.clients p {
+		margin-bottom: 0;
+	}
+
+	.clients img {
+		flex: 1;
+	}
+
+}
+
+/* NAVIGATION
+-------------------------------------------------- */
+
+nav {
+    font-family: 'geomanistregular';
+	background-color: #339999;
+	font-size: 18px;
+	margin-bottom: 1.5em;
+	    transition: none;
+}
+
+nav ul {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	justify-content: space-between;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	flex-grow: 1;
+}
+
+nav a {
+    box-sizing: border-box;
+	padding: 5px 0;
+	text-decoration: none;
+	border: none;
+	color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav a:hover {
+	color: #000;
+	background-color: #fff;
+}
+
+.home {
+	width: 100%;
+	background-color: #081a1a;
+
+}
+
+.work a {
+	background-color: #113333;
+}
+
+.play a {
+	background-color: #194d4d;
+}
+
+.cv a {
+	background-color: #226666;
+}
+
+.about a {
+	background-color: #2a8080;
+}
+
+.blog a {
+	background-color: #339999;
+}
+
+.selected a {
+	color: #000;
+	background-color: #fff;
+}
+
+@media (max-width: 400px) {
+}
+
+@media (min-width: 400px) and (max-width: 1000px) {
+
+	.home {
+		width: auto;
+	}
+
+	nav a {
+		padding: 10px 0;
+	}
+
+}
+
+@media (min-width: 700px) and (max-width: 1000px) {
+
+	nav {
+		font-size: 24px;
+	}
+
+	nav a {
+		padding: 20px 0;
+	}
+
+}
+
+@media (min-width: 1000px) and (max-width: 1440px) {
+
+	nav {
+		position: fixed;
+		left: 0;
+		top: 0;
+		height: 100%;				
+	    font-size: 30px;
+	    width: 210px;
+	}
+
+	nav ul {
+		flex-direction: column;
+		height: 100%;
+		flex-wrap: nowrap;
+		align-content: flex-start;
+	}
+
+
+	nav li {
+		display: flex;
+	}
+
+	nav a {
+		width: 100%;
+		padding: 20px;
+		justify-content: flex-start;
+		transition: .15s ease-out;
+	}
+
+	.home {
+		flex: 0 0 auto;
+	}
+
+	nav a:hover {
+		padding-left: 40px;
+	    transition: .15s ease-out, background-color .1s ease-out;
+	}
+
+	nav .home a:hover {
+		padding-left: 20px;
+	}
+
+
+}
