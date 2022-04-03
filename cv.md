@@ -14,31 +14,33 @@ For professional enquiries, contact me on [LinkedIn](http://www.linkedin.com/in/
 
 ## Skills
 
-- **Wireframing and prototyping**  
-sketching, Axure RP, HTML & CSS
-- **Information architecture**  
-card sorting, sitemaps
-- **User research**  
-study planning and analysis, interviewing
-- **Documentation**  
-flows, functional specifications, guidelines, personas
-- **Communication**  
-writing, presenting, collaborating, public speaking
+- **Product strategy**
+Identifying opportunities, interpreting business goals, working in tandem with product managers
+- **Research**
+Planning, facilitating, and analysing, particularly for evaluative studies
+- **Concepting and prototyping**
+Sketching, Figma, Axure RP, HTML & CSS
+- **Experience design**
+Information architecture, UX writing, interaction design, and a wee bit of UI design
+- **Communication and storytelling**
+Writing, speaking, facilitating
+- **Mentoring**
+Supporting and guiding junior designers
 
 ## Experience
 
 ### Lead Product Designer, TotallyMoney
 July 2019 – January 2022
 
-- Led design and product thinking across multiple product squads.
+- **Led design and product thinking** across multiple product squads.
 - Coached and oversaw the work of other product designers.
-- Domain expert for the free credit report area of our service.
+- **Domain expert** for the free credit report area of our service.
 - Developed a vision, titled *Atomic Actions*, for unifying two longstanding customer features into a single coherent overview of credit issues, focusing on what can be done to improve.
 - Led discovery, definition, and design of [*Credit Assistant*](https://www.totallymoney.com/blog/credit-assistant/), our headline mobile feature.
 - Launched our first [personalised push notifications]({% link _work/livealerts.md %}).
 - Advocated and designed journeys for a homebrew customer research panel.
-- Helped evolve and facilitate team rituals like design critiques and research planning, notably establishing [weekly customer interviews]({% link _work/weeklyinterviews.md %})
-- Documentation champion and nerd, maintaining an industry glossary, design project databases, and multiple document templates.
+- Helped evolve and facilitate team rituals like design critiques and research planning, notably **establishing** [**weekly customer interviews**]({% link _work/weeklyinterviews.md %}).
+- **Documentation champion and nerd**, maintaining an industry glossary, design project databases, and multiple document templates.
 
 ### Senior Experience Designer, AnalogFolk
 September 2015 – September 2018
@@ -84,7 +86,7 @@ An article for Usability Geek, August 2013
 - [Horizon Interactive Silver Award for the Cyber-Duck responsive website](https://horizoninteractiveawards.com/2013/winners/winners_list_c), 2013
 - [Web Marketing Association Outstanding Website Award for *Essex Governor Services*](http://www.webaward.org/winner.asp?eid=18337), 2012
 - [Finalist in the Knight-Mozilla News Challenge](https://web.archive.org/web/20160102132321/https://dansinker.com/post/9588118250/knightmozilla-heads-to-berlin), 2011
-- Best End-to-End Design for *Storymaker, Storyteller*at the Microsoft Design Expo, 2008
+- Best End-to-End Design for *Storymaker, Storyteller* at the Microsoft Design Expo, 2008
 
 ## Education
 
