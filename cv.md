@@ -14,17 +14,17 @@ For professional enquiries, contact me on [LinkedIn](http://www.linkedin.com/in/
 
 ## Skills
 
-- **Product strategy**
+- **Product strategy**  
 Identifying opportunities, interpreting business goals, working in tandem with product managers
-- **Research**
+- **Research**  
 Planning, facilitating, and analysing, particularly for evaluative studies
-- **Concepting and prototyping**
+- **Concepting and prototyping**  
 Sketching, Figma, Axure RP, HTML & CSS
-- **Experience design**
+- **Experience design**  
 Information architecture, UX writing, interaction design, and a wee bit of UI design
-- **Communication and storytelling**
+- **Communication and storytelling**  
 Writing, speaking, facilitating
-- **Mentoring**
+- **Mentoring**  
 Supporting and guiding junior designers
 
 ## Experience
