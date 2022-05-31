@@ -1,12 +1,7 @@
 ---
-layout: page
 title: "UX Companion"
-short_description: "A handy glossary of user experience theories, tools, and principles"
+description: "A handy, popular glossary of user experience theories, tools, and principles"
 ---
-
-# {{ page.short_description }}
-
-![UX Companion's "Cart Sorting" article]({{ "/assets/uxcompanion/hero.jpg" | absolute_url }})
 
 At Cyber-Duck, we were looking for a simple app idea to get our teeth into iOS development.
 

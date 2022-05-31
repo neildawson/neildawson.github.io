@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Dark Times for Dark Patterns"
-short_description: "Identifying and replacing manipulative design practices at South by South West 2016"
+description: "Talking downsides and alternatives to manipulative design practices at SxSW Interactive in Texas"
 ---
-
-# {{ page.short_description }}
 
 ![Dark Times for Dark Patterns]({{ "/assets/darkpatterns/hero.png" | absolute_url }})
 

@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Three Weeks in Iran"
-short_description: "Documenting a three week coach tour of Iran with a dozen Kiwi pensioners"
+description: "Documenting a three week coach tour of Iran with a dozen Kiwi pensioners"
 ---
-
-# {{ page.short_description }}
 
 In 2013 I took 10,000 photographs on a tour of Iran.
 

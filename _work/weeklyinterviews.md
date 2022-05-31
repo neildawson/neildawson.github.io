@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Weekly Customer Interviews"
-short_description: "Establishing a continuous, lightweight research habit to broaden our customer knowledge"
+description: "Establishing a continuous, lightweight research habit to broaden our customer knowledge"
 ---
-
-# {{ page.short_description }}
 
 At TotallyMoney we often ran usability tests and interviews with a project focus, but rarely conducted broader research to learn more about our customers and find new opportunities.
 

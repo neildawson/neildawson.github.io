@@ -1,10 +1,7 @@
 ---
-layout: page
-title: "Eligibility hub"
-short_description: "Setting direction for smart credit guidance, while establishing a brand new product squad"
+title: "Eligibility Hub"
+description: "Simultaneously building a product squad and a plain-speaking, personalised credit commentary feature"
 ---
-
-# {{ page.short_description }}
 
 In 2021 I moved to a new squad at TotallyMoney, named Mission Improve. We were tasked with “helping customers improve their financial situation and build financial momentum”.
 

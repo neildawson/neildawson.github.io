@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Miniature painting"
-short_description: "Building tiny armies"
+description: "Building tiny armies"
 ---
-
-# {{ page.short_description }}
 
 During the first lockdown I received a surprise delivery from a friend: a box of small plastic figures, some paints, and a brush.
 

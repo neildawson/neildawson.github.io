@@ -1,8 +1,9 @@
 ---
-layout: page
-title: "About"
-permalink: /about/
+title: About
+permalink: /about
 ---
+
+# About
 
 ![It's me]({{ "/assets/about/neil.jpg" | absolute_url }})
 

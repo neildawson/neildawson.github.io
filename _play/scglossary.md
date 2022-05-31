@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Star Citizen Glossary"
-short_description: "A responsive glossary in HTML and CSS"
+description: "A responsive glossary in HTML and CSS"
 ---
-
-# {{ page.short_description }}
 
 [Star Citizen](https://robertsspaceindustries.com/) is a multiplayer space simulation game on a grand scale, in development for PC.
 

@@ -1,13 +1,7 @@
 ---
-layout: page
 title: "Get a Nando's"
-short_description: "Merging distinct delivery and collection ordering systems into one optimised experience"
+description: "Merging distinct delivery and collection ordering systems into an optimised experience that boosted conversions over 40%"
 ---
-
-# {{ page.short_description }}
-
-![Ordering from the new combined site]({{ "/assets/nandos/hero.jpg" | absolute_url }})
-<span class="post-meta">Ordering from the new combined site</span>
 
 In late 2017 Nando’s began rolling out a home delivery service to their restaurants.
 

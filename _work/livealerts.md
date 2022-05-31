@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Live Alerts"
-short_description: "Bending a commercial tool into meaningful, timely notifications that outperformed our best email campaigns"
+description: "Bending a commercial tool into meaningful, timely notifications that outperformed our best email campaigns"
 ---
-
-# {{ page.short_description }}
 
 The credit reporting system is designed for lenders, not consumers. These days we can all access our reports, but it’s usually still difficult to make sense of all the data. 
 

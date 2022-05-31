@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Yearbooks"
-short_description: "An annual photo diary"
+description: "Annual photo diaries"
 ---
-
-# {{ page.short_description }}
 
 ![2016 and 2017 yearbooks]({{ "/assets/yearbooks/hero.jpg" | absolute_url }})
 

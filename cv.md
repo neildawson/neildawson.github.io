@@ -1,10 +1,11 @@
 ---
-layout: page
 title: CV
-permalink: /cv/
+permalink: /cv
 ---
 
-I'm an experience designer with over ten years in the industry, known for my thoroughness, care, authenticity, energy, and humour.
+# CV
+
+I'm an experience designer with over ten years in the industry, known for my thoroughness, care, authenticity, and humour.
 
 **I fight for the users**.
 

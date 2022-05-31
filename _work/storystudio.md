@@ -1,13 +1,7 @@
 ---
-layout: page
 title: "Sainsbury's Story Studio"
-short_description: "A kids stop-motion movie app for the supermarket's 2016 Christmas campaign"
+description: "A best-in-class kids stop-motion movie app for the supermarket's annual Christmas campaign"
 ---
-
-# {{ page.short_description }}
-
-![Box set]({{ "/assets/storystudio/hero.jpg" | absolute_url }})
-<span class="post-meta">*The Greatest Gift* box set, sold in Sainsbury's stores across the UK</span>
 
 Every year, UK brands compete to create the most memorable Christmas ad. In 2016 Sainsbury's pulled out all the stops for [*The Greatest Gift*](https://www.youtube.com/watch?v=bq5SGSCZe4E): three and a half minutes of stop-motion animation and a soundtrack by [Bret McKenzie](https://en.wikipedia.org/wiki/Bret_McKenzie) and [James Corden](https://en.wikipedia.org/wiki/James_Corden).
 

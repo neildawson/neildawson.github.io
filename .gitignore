@@ -5,3 +5,7 @@ _site
 .DS_Store
 .DS_Store
 .DS_Store
+.jekyll-cache/
+navtest/__MACOSX/
+.DS_Store
+.DS_Store

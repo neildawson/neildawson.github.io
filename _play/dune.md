@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Litany Against Fear"
-short_description: "A single-colour screen print based on Frank Herbert’s *Dune*"
+description: "A single-colour screen print based on Frank Herbert’s *Dune*"
 ---
-
-# {{ page.short_description }}
 
 Designed for a team outing to Print Club London.
 
