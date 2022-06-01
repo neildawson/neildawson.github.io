@@ -1,3 +1,280 @@
-.current {
-  color: green;
+
+/* LAYOUT
+-------------------------------------------------- */
+
+body {
+  margin:  0 auto;
+}
+
+section {
+  margin: 10px;
+}
+
+@media (min-width: 1000px) {
+
+    section {
+      margin-left: 250px;
+    }
+
+  }
+
+/* TYPOGRAPHY
+-------------------------------------------------- */
+
+@font-face {
+    font-family: 'geomanistregular';
+    src: url('/assets/fonts/geomanist-bold-webfont.eot');
+    src: url('/assets/fonts/geomanist-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/geomanist-bold-webfont.woff2') format('woff2'),
+         url('/assets/fonts/geomanist-bold-webfont.woff') format('woff'),
+         url('/assets/fonts/geomanist-bold-webfont.ttf') format('truetype'),
+         url('/assets/fonts/geomanist-bold-webfont.svg#geomanistregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'geomanistultra';
+    src: url('/assets/fonts/geomanist-ultra-webfont.eot');
+    src: url('/assets/fonts/geomanist-ultra-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/geomanist-ultra-webfont.woff2') format('woff2'),
+         url('/assets/fonts/geomanist-ultra-webfont.woff') format('woff'),
+         url('/assets/fonts/geomanist-ultra-webfont.ttf') format('truetype'),
+         url('/assets/fonts/geomanist-ultra-webfont.svg#geomanistregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 2px solid #266;
+  color: #266;
+  transition: border-width .04s linear;
+}
+
+a:hover {
+  border-width: 4px;
+}
+
+h1, h2, h3 {
+  font-family: 'geomanistregular';
+  font-weight: normal;
+  line-height: 1;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 0;
+  margin-top: .3em;
+}
+
+h2 {
+  font-size: 2em;
+  margin-top: 1.8em;
+  margin-bottom: .5em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+.statement {
+  font-family: 'geomanistultra';
+  text-transform: uppercase;
+  font-size: 100px;
+  line-height: .9;
+  text-align: center;
+  display: inline-block;
+  color: #113333;
+}
+
+body {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+mark {
+  background: #ff6;
+  padding: 0 1px;  
+}
+
+@media (min-width: 700px) and (max-width: 1000px) {
+
+  body {
+    font-size: 18px;
+  }
+
+}
+
+@media (min-width: 1000px) {
+
+  h1 {
+    font-size: 4em;
+  }
+
+  h2 {
+    font-size: 3em;
+  }
+
+  h3 {
+    font-size: 2em;
+  }
+
+}
+
+/* NAVIGATION
+-------------------------------------------------- */
+
+nav {
+  font-family: 'geomanistregular';
+  background-color: #339999;
+  font-size: 18px;
+  margin-bottom: 1.5em;
+      transition: none;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  flex-grow: 1;
+    box-sizing: border-box;
+  padding: 10px 0;
+  text-decoration: none;
+  border: none;
+  color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav a:hover {
+  color: #000;
+  background-color: #fff;
+}
+
+nav :first-child {
+  background-color: #081a1a;
+  width: 100%;
+}
+
+nav :nth-child(2) {
+  background-color: #113333;
+}
+
+nav :nth-child(3) {
+  background-color: #194d4d;
+}
+
+nav :nth-child(4) {
+  background-color: #226666;
+}
+
+nav :nth-child(5) {
+  background-color: #2a8080;
+}
+
+nav :nth-child(6) {
+  background-color: #339999;
+}
+
+#current {
+  color: #000;
+  background-color: #fff;
+}
+
+@media (min-width: 400px) and (max-width: 1000px) {
+
+  nav a:first-child {
+    width: auto;
+  }
+
+}
+
+@media (min-width: 700px) and (max-width: 1000px) {
+
+  nav {
+    font-size: 24px;
+  }
+
+  nav a {
+    padding: 20px 0;
+  }
+
+}
+
+@media (min-width: 1000px) {
+
+  nav {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;       
+    font-size: 30px;
+    width: 210px;
+    flex-direction: column;
+    height: 100%;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    display: flex;
+  }
+
+  nav a {
+    width: 100%;
+    padding: 20px;
+    justify-content: flex-start;
+    transition: .15s ease-out;
+  }
+
+  nav :first-child {
+    flex: 0 0 auto;
+  }
+
+  nav a:hover {
+    padding-left: 40px;
+      transition: .15s ease-out, background-color .1s ease-out;
+  }
+
+  nav :first-child:hover {
+    padding-left: 20px;
+  }
+
+
+}
+
+/* CARDS
+-------------------------------------------------- */
+
+.card {
+  display: inline-block;
+  border-bottom: 0px;
+  color: #000;
+  margin-bottom: 40px;
+    transition: transform 0.15s ease;
+}
+
+.card .title {
+  font-family: 'geomanistregular';
+  font-size: 1.6em;
+  line-height: 1.15;
+}
+
+.card img {
+  width: 100%;
+  padding-bottom: 13px;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card:hover .title {
+  background-image: linear-gradient(black 0%, black 100%);
+  background-position: 0 1.15em;
+  background-repeat: repeat-x;
+  background-size: 1px 4px;
 }

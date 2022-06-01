@@ -21,8 +21,8 @@ In 2018 we came on board to merge collection into the newer delivery system, and
 
 In the first twelve months of optimisation:
 
-- Conversion rate increased **41.45%**
-- Average order value increased **2.12%**
+- Conversion rate increased 41.45%
+- Average order value increased 2.12%
 
 <br/>
 
@@ -31,14 +31,14 @@ In the first twelve months of optimisation:
 <br/>
 
 ## Discovery
-Working in regular **feature sprints**, we spent at least one day a week at each other’s office so we were all around to collaborate, eat discounted chicken, and make use of the adult slide in the Nando’s lobby.
+Working in regular <mark>feature sprints</mark>  we spent at least one day a week at each other’s office so we were all around to collaborate, eat discounted chicken, and make use of the adult slide in the Nando’s lobby.
 
-I gathered info to **map the existing processes**, including email and SMS messaging.
+I gathered info to <mark>map the existing processes</mark>  including email and SMS messaging.
 
 ![Flow diagram of the existing collection and delivery services]({{ "/assets/nandos/flow-old.png" | absolute_url }})
 <span class="post-meta">Flow diagram of the existing collection and delivery services</span>
 
-Through this, UI audits, user stories, and collaboration with the tech team and suppliers, we understood the systems and had the basis for a sprint plan and a **preliminary flow for the new ordering journey**. We returned to this diagram throughout the project, updating the model to include backend touchpoints and serve as a master reference for the flow.
+Through this, UI audits, user stories, and collaboration with the tech team and suppliers, we understood the systems and had the basis for a sprint plan and a <mark>preliminary flow for the new ordering journey</mark> We returned to this diagram throughout the project, updating the model to include backend touchpoints and serve as a master reference for the flow.
 
 ![Flow diagram of the proposed experience, combining delivery and collection, including backend touchpoints for developer reference]({{ "/assets/nandos/flow-new.png" | absolute_url }})
 <span class="post-meta">Flow diagram of the proposed experience, combining delivery and collection, including backend touchpoints for developer reference</span>
@@ -59,21 +59,21 @@ Our main objective was to better integrate registration into the check out flow.
 ![Signing in on the old site]({{ "/assets/nandos/login-old.jpg" | absolute_url }})
 <span class="post-meta">Signing in on the old site – the "Hatch a new account" link leads to registration</span>
 
-Through conversations with Nando’s stakeholders, back end suppliers, and our tech team, I proposed a streamlined flow to address these points while **respecting technical constraints**.
+Through conversations with Nando’s stakeholders, back end suppliers, and our tech team, I proposed a streamlined flow to address these points while <mark>respecting technical constraints</mark>
 
-I conducted **competitor research**, examining similar services like Pizza Hut, auditing the multiple Nando’s log in systems, and seeking interaction patterns in other places.
+I conducted <mark>competitor research</mark>  examining similar services like Pizza Hut, auditing the multiple Nando’s log in systems, and seeking interaction patterns in other places.
 
 ### Doing the hard work, so customers don't need to
 
 At the time, a Nando’s customer could own accounts on multiple systems: delivery, collection, and loyalty. Though one system would be eliminated by the merger, customers may not know what accounts they owned or which to use.
 
-I recommended a **two-step log in process**, used by Apple and Eventbrite, to address this. By submitting email address first, the system can present a password field to existing users and a registration form to new users. Users don’t need to do detective work to discover if they already have an account, and new users retain their location in the checkout flow.
+I recommended a <mark>two-step log in process</mark>  used by Apple and Eventbrite, to address this. By submitting email address first, the system can present a password field to existing users and a registration form to new users. Users don’t need to do detective work to discover if they already have an account, and new users retain their location in the checkout flow.
 
-We took inspiration from Metro Bank’s principle of avoiding shutters and glass barriers in their branches, **designing for customers, not criminals**. Collaborating with the tech team, we pre-empted concerns that explicitly acknowledging the existence of accounts was a security threat by demonstrating that any determined attacker can discover the presence of an account. Understanding this, the Nando’s stakeholders agreed it was unnecessary to obfuscate things for genuine customers.
+We took inspiration from Metro Bank’s principle of avoiding shutters and glass barriers in their branches, <mark>designing for customers, not criminals</mark> Collaborating with the tech team, we pre-empted concerns that explicitly acknowledging the existence of accounts was a security threat by demonstrating that any determined attacker can discover the presence of an account. Understanding this, the Nando’s stakeholders agreed it was unnecessary to obfuscate things for genuine customers.
 
 ### From concept to reality
 
-I integrated the two-step log in process into a **responsive Axure RP prototype** of the whole ordering journey, including form logic to recognise email addresses so we could test flows for recognised and unrecognised users. I conducted four rounds of **user testing** with the prototype, including two guerrilla sessions in Nando’s restaurants.
+I integrated the two-step log in process into a <mark>responsive Axure RP prototype</mark> of the whole ordering journey, including form logic to recognise email addresses so we could test flows for recognised and unrecognised users. I conducted four rounds of <mark>user testing</mark> with the prototype, including two guerrilla sessions in Nando’s restaurants.
 
 ![Axure RP prototype of the check out journey running on mobile]({{ "/assets/nandos/prototype.jpg" | absolute_url }})
 <span class="post-meta">Axure RP prototype of the check out journey running on mobile – the customer's email address has been recognised, so they see a login form instead of a registration form</span>
@@ -83,9 +83,9 @@ Working closely with the visual designer, we struck a balance between the bold, 
 ![Recognising a registered user]({{ "/assets/nandos/login-new.png" | absolute_url }})
 <span class="post-meta">Recognising a registered user</span>
 
-As we prepared for launch, I worked with the analytics team to ensure their **tracking specification** included events and measures we could use later to assess performance and target areas for improvement.
+As we prepared for launch, I worked with the analytics team to ensure their <mark>tracking specification</mark> included events and measures we could use later to assess performance and target areas for improvement.
 
-Throughout, I used **sketching and note taking** to record and make sense of information, explore ideas, and share concepts.
+Throughout, I used <mark>sketching and note taking</mark> to record and make sense of information, explore ideas, and share concepts.
 
 <br/>
 

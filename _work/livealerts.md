@@ -29,9 +29,9 @@ Timely messages to customers about meaningful changes in their credit profile ea
 
 When we got our hands on a new API that highlighted changes to our customers’ credit profiles, we started digging through the list of over 200 status alerts. It was time for some spreadsheet magic.
 
-First, my Product Manager and I worked with the data provider to clean up the list, stripping out duplicates and system alerts that weren’t useful to customers. Next we **assessed the remaining items by lots of factors of our own devising**, like contribution to our OKRs, impact on the credit score, and how well we explained the subject in our product.
+First, my Product Manager and I worked with the data provider to clean up the list, stripping out duplicates and system alerts that weren’t useful to customers. Next we <mark>assessed the remaining items by lots of factors of our own devising</mark> like contribution to our OKRs, impact on the credit score, and how well we explained the subject in our product.
 
-Knowing other teams at TotallyMoney would be keen to use this service in future, **I condensed all my knowledge into a human-readable summary** of the major topics and the associated data points, so they could benefit from our knowledge and not start from scratch.
+Knowing other teams at TotallyMoney would be keen to use this service in future, <mark>I condensed all my knowledge into a human-readable summary</mark> of the major topics and the associated data points, so they could benefit from our knowledge and not start from scratch.
 
 ## Choosing our first alert
 
@@ -47,17 +47,23 @@ Hard searches usually only happen when you apply for credit, and lenders are hes
 
 Every new hard search recorded on a customer's credit report was an opportunity to:
 
-- **Show customers how their actions were represented in their report**. We knew much of the credit report was mystifying to our customers. Here we could demonstrate cause and effect.
-- **Prevent rejections caused by too many applications**. We knew it was not common knowledge that multiple hard searches can count against you. 
-- **Say something timely**. Most of the other alerts were weeks or months old, due to lender reporting delays. In this case you’d be notified the same day your report changed.
-- **Spot identity fraud immediately**. We didn’t expect it to happen often, but we’d still be showing customers we were looking out for them.
+- **Show customers how their actions were represented in their report**\
+We knew much of the credit report was mystifying to our customers. Here we could demonstrate cause and effect.
+- **Prevent rejections caused by too many applications**\
+We knew it was not common knowledge that multiple hard searches can count against you. 
+- **Say something timely**\
+Most of the other alerts were weeks or months old, due to lender reporting delays. In this case you’d be notified the same day your report changed.
+- **Spot identity fraud immediately**\
+We didn’t expect it to happen often, but we’d still be showing customers we were looking out for them.
 
 We were confident there was real customer value to be had.
 
 ### Why not?
 
-- **Low volume, about 100 instances a day**. We thought this would be fine for our first release. Later I’ll explain why I might choose differently in retrospect.
-- **Our in-app experience for browsing search records was poor**. The information architecture was unclear, and the layout was broken by a recent redesign.
+- **Low volume, about 100 instances a day**\
+We thought this would be fine for our first release. Later I’ll explain why I might choose differently in retrospect.
+- **Our in-app experience for browsing search records was poor**\
+The information architecture was unclear, and the layout was broken by a recent redesign.
 
 I pushed to include a redesign of the searches area as part of this project, so we’d have a satisfying end-to-end journey.
 
@@ -79,11 +85,11 @@ I won’t dwell too much on how I got there, as these things are covered in my o
 
 <br/>
 
-## Results and reflections
+## Results and reflection
 
 ### Excellent open rates
 
-The hard search alert email clocked in with a 32.55% open rate and a **37.04% click-to-open rate** (CTO). Our best performing emails until then topped out at about 23% CTO, so this was clear validation of the personalised alert initiative.
+The hard search alert email clocked in with a 32.55% open rate and a <mark>37.04% click-to-open rate</mark> (CTO). Our best performing emails until then topped out at about 23% CTO, so this was clear validation of the personalised alert initiative.
 
 Our next alert informed customers of new accounts appearing on their credit report, a piece of work I started before handing over to another team during a reshuffle. It performed even better: 40.67% CTO.
 
@@ -95,9 +101,9 @@ Ideally a push notification should be meaningful and valuable on its own. I was 
 
 For compliance reasons we couldn’t name the organisation in our messages, only in the app. Concerned this lack of transparency might worry customers, I proposed an option which explained *why* a hard search is made. We tested this against a version which instead directed customers to open the app for full details.
 
-**Version A (the call to action) performed best, with a 14.64% lead** in clicks per send, and was selected for the full release.
+**Version A (the call to action) performed best, with a 14.64% lead</mark> in clicks per send, and was selected for the full release.
 
-So we learned a bit about how to write engaging push notifications. Obviously, **an A/B test couldn’t tell us if the message worried anyone** unnecessarily, something I’d like to explore further one day!
+So we learned a bit about how to write engaging push notifications. Obviously, <mark>an A/B test couldn’t tell us if the message worried anyone</mark> unnecessarily, something I’d like to explore further one day!
 
 ### A lesson in balancing customer and business value
 
@@ -105,4 +111,4 @@ As I mentioned earlier, hard search volume was not very high. We thought this wo
 
 Unfortunately, our unique tech stack at TotallyMoney led to a lengthy delay in launching our push notifications system, which contributed to further alerts being put on hold.
 
-Looking back, hard search alerts had loads of value for the customer, but there were just too few of them to meaningfully contribute to our OKRs. **Given the choice again, I’d place more weight on the business goals**, and not rely so much on future roadmap items to deliver the business value.
+Looking back, hard search alerts had loads of value for the customer, but there were just too few of them to meaningfully contribute to our OKRs. <mark>Given the choice again, I’d place more weight on the business goals</mark>  and not rely so much on future roadmap items to deliver the business value.

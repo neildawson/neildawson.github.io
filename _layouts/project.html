@@ -13,7 +13,7 @@ layout: default
     <a class="prev card" href="{{page.previous.url}}">
 	  	<p>Previous:</p>
 			<img src="/assets/{{ page.previous.slug }}/hero.jpg">
-			<h2>{{ page.previous.title }}</h2>
+			<span class="title">{{ page.previous.title }}</span>
 			<p>{{ page.previous.description }}</p>
 		</a>
   {% endif %}
@@ -21,7 +21,7 @@ layout: default
     <a class="prev card" href="{{page.next.url}}">
 	    <p>Next:</p>
 	    <img src="/assets/{{ page.next.slug }}/hero.jpg">
-			<h2>{{ page.next.title }}</h2>
+			<span class="title">{{ page.next.title }}</span>
 			<p>{{ page.next.description }}</p>
 		</a>
   {% endif %}

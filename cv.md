@@ -7,7 +7,7 @@ permalink: /cv
 
 I'm an experience designer with over ten years in the industry, known for my thoroughness, care, authenticity, and humour.
 
-**I fight for the users**.
+<mark>I fight for the users</mark>.
 
 With a background in both computing and design, I collaborate with designers, developers, and stakeholders in other disciplines to plan, test, and launch successful products.
 
@@ -33,37 +33,37 @@ Supporting and guiding junior designers
 ### Lead Product Designer, TotallyMoney
 July 2019 – January 2022
 
-- **Led design and product thinking** across multiple product squads.
+- <mark>Led design and product thinking</mark> across multiple product squads.
 - Coached and oversaw the work of other product designers.
-- **Domain expert** for the free credit report area of our service.
+- <mark>Domain expert</mark> for the free credit report area of our service.
 - Developed a vision, titled *Atomic Actions*, for unifying two longstanding customer features into a single coherent overview of credit issues, focusing on what can be done to improve.
 - Led discovery, definition, and design of [*Credit Assistant*](https://www.totallymoney.com/blog/credit-assistant/), our headline mobile feature.
 - Launched our first [personalised push notifications]({% link _work/livealerts.md %}).
 - Advocated and designed journeys for a homebrew customer research panel.
-- Helped evolve and facilitate team rituals like design critiques and research planning, notably **establishing** [**weekly customer interviews**]({% link _work/weeklyinterviews.md %}).
-- **Documentation champion and nerd**, maintaining an industry glossary, design project databases, and multiple document templates.
+- Helped evolve and facilitate team rituals like design critiques and research planning, notably [<mark>establishing weekly customer interviews</mark>]({% link _work/weeklyinterviews.md %}).
+- <mark>Documentation champion and nerd</mark>, maintaining an industry glossary, design project databases, and multiple document templates.
 
 ### Senior Experience Designer, AnalogFolk
 September 2015 – September 2018
 
 - Led feature planning, prototyping, and guerrilla testing of Nando's combined delivery and collection service.
-- Led research, user testing with children, and design for Sainsbury's [*Story Studio*]({% link _work/storystudio.md %}), a stop-motion movie app for iOS and Android **used to create tens of thousands of movies on Christmas Day**.
-- Researched fintech trends to design and build an **interactive prototype of future-state mobile banking** for Sainsbury's Bank.
+- Led research, user testing with children, and design for Sainsbury's [*Story Studio*]({% link _work/storystudio.md %}), a stop-motion movie app for iOS and Android <mark>used to create tens of thousands of movies on Christmas Day</mark>.
+- Researched fintech trends to design and build an <mark>interactive prototype of future-state mobile banking</mark> for Sainsbury's Bank.
 - Multiple projects for a major international bank:
     - Redesigned and oversaw user testing of key journeys in the new customer banking mobile app, from flows to pixel-perfect prototypes.
 	- Overhauled the information architecture and data interface of an international fund portal.
-	- Researched and wrote **mobile interface standards** and a **design guide for natural language interfaces**.
+	- Researched and wrote <mark>mobile interface standards</mark> and a <mark>design guide for natural language interfaces</mark>.
 - Worked closely with Dulux to improve key journeys in their custom paint ordering service, [*Amazing Space Paint*](https://web.archive.org/web/20200920052116/https://www.analogfolk.com/work/amazing-space-paint), based on detailed analytics and focus group findings.
-- Led a one day **rapid/paper prototyping workshop** for staff at AXA PPP Healthcare.
+- Led a one day <mark>rapid/paper prototyping workshop</mark> for staff at AXA PPP Healthcare.
 
 ### Junior &#8594; Senior User Experience Designer, Cyber-Duck
 June 2011 – August 2015
 
 - Project manager and UX lead on more than 15 projects.
-- Led the design and usability testing of [*mydlc*](https://web.archive.org/web/20150718071422/http://www.mydlc.co.uk/), a debt management system, resulting in shorter payment plan setup times, more than **double the turnover** from the previous solution, and a UX UK award.
-- Led the redesign and usability testing of the application process for [*MYJAR*](https://myjar.com/), a short-term loan service, **increasing customer satisfaction by 10%**.
+- Led the design and usability testing of [*mydlc*](https://web.archive.org/web/20150718071422/http://www.mydlc.co.uk/), a debt management system, resulting in shorter payment plan setup times, more than <mark>double the turnover</mark> from the previous solution, and a UX UK award.
+- Led the redesign and usability testing of the application process for [*MYJAR*](https://myjar.com/), a short-term loan service, <mark>increasing customer satisfaction by 10%</mark>.
 - Carried out interviews, card sorting sessions, and consulting for Balfour Beatty Construction's *Playbook*, a process sharing platform, which was well received by users across the USA.
-- Conceived, prototyped, managed, wrote, and edited [*UX Companion*](http://uxcompanion.com/), a user experience glossary app for iOS and Android **downloaded more than 50,000 times** and chosen as the Best Mobile Campaign at the UK Agency Awards 2015.
+- Conceived, prototyped, managed, wrote, and edited [*UX Companion*](http://uxcompanion.com/), a user experience glossary app for iOS and Android <mark>downloaded more than 50,000 times</mark> and chosen as the Best Mobile Campaign at the UK Agency Awards 2015.
 - Led a branding project for [*Countercept*](https://www.countercept.com/), a managed service from MWR InfoSecurity, where we created a strong new brand, collateral, and an atypical website.
 
 ## Writing & Speaking
