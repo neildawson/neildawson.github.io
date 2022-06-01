@@ -1,8 +1,28 @@
 ---
 layout: default
 ---
+<a href="/../{{ page.collection }}">&larrhk; {{ page.collection | capitalize }}</a>
 <h1>{{ page.title }}</h1>
 <p>{{ page.description }}</p>
 <img src="/assets/{{ page.slug }}/hero.jpg">
 
 {{ content }}
+
+<div class="pagenav">
+  {% if page.previous.url %}
+    <a class="prev card" href="{{page.previous.url}}">
+	  	<p>Previous:</p>
+			<img src="/assets/{{ page.previous.slug }}/hero.jpg">
+			<h2>{{ page.previous.title }}</h2>
+			<p>{{ page.previous.description }}</p>
+		</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="prev card" href="{{page.next.url}}">
+	    <p>Next:</p>
+	    <img src="/assets/{{ page.next.slug }}/hero.jpg">
+			<h2>{{ page.next.title }}</h2>
+			<p>{{ page.next.description }}</p>
+		</a>
+  {% endif %}
+</div>

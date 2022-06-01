@@ -1,6 +1,6 @@
 ---
 title: "Live Alerts"
-description: "Bending a commercial tool into meaningful, timely notifications that outperformed our best email campaigns"
+description: "Bending a commercial tool into meaningful, timely emails and notifications that outperformed our best campaigns"
 ---
 
 The credit reporting system is designed for lenders, not consumers. These days we can all access our reports, but it’s usually still difficult to make sense of all the data. 

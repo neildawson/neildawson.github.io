@@ -1,7 +1,17 @@
 ---
 layout: default
 ---
+<a href="/../blog">&larrhk; Blog<a>
 <h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<p>{{ page.date | date_to_long_string: "ordinal", "US" }}</p>
 
 {{ content }}
+
+<div class="pagenav">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">Previous: <br/> {{page.previous.title}} <br/> {{page.previous.date | date_to_long_string: "ordinal", "US" }}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">Next: <br/> {{page.next.title}} <br/> {{page.previous.date | date_to_long_string: "ordinal", "US" }} </a>
+  {% endif %}
+</div>
