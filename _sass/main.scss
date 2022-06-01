@@ -8,12 +8,19 @@ body {
 
 section {
   margin: 10px;
+  margin-bottom: 100px;
+  max-width:  1150px;
+}
+
+img {
+  width: 100%;
 }
 
 @media (min-width: 1000px) {
 
     section {
       margin-left: 250px;
+      margin-right: 40px;
     }
 
   }
@@ -277,4 +284,39 @@ nav :nth-child(6) {
   background-position: 0 1.15em;
   background-repeat: repeat-x;
   background-size: 1px 4px;
+}
+
+/* CLIENTS
+-------------------------------------------------- */
+
+.clients {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.clients p {
+  width: 100%;
+  font-family: 'geomanistregular';
+  text-align: center;
+  font-size: 1.6em;
+  margin-top: 0;
+}
+
+.clients img {
+  padding: 0 20px;
+  box-sizing: border-box;
+  width: 50%;
+  object-fit: contain;
+}
+
+@media (min-width: 1100px) {
+
+  .clients p {
+    margin-bottom: 0;
+  }
+
+  .clients img {
+    flex: 1;
+  }
+
 }

@@ -11,8 +11,6 @@ Since that first box I've enjoyed collecting, building, and painting more miniat
 
 Here are a few selections from [my mini painting Instagram account](https://www.instagram.com/archaeovist/).
 
-![Veteran space marine squad]({{ "/assets/minipainting/veterans1.jpg" | absolute_url }})
-
 ![Veteran space marine close-up]({{ "/assets/minipainting/veterans2.jpg" | absolute_url }})
 
 ![Diorama of a knight duelling an elf]({{ "/assets/minipainting/sigmar1.jpg" | absolute_url }})

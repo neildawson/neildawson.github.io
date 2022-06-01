@@ -11,8 +11,6 @@ It's a work in progress. Here are a few of my favourite photos in the meantime:
 
 ![Tehran at night]({{ "/assets/iran/tehran.jpg" | absolute_url }})
 
-![Zoroastrian Dakhma or 'Tower of Silence']({{ "/assets/iran/dakhma.jpg" | absolute_url }})
-
 ![Travellers and workers by a pistachio field]({{ "/assets/iran/pistachios.jpg" | absolute_url }})
 
 ![Berries, freshly picked and washed]({{ "/assets/iran/berries.jpg" | absolute_url }})

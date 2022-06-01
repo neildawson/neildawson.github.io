@@ -4,11 +4,9 @@ permalink: /work
 ---
 <h1>Work</h1>
 
-<ul>
-  {% for project in site.work %}
-    {% include card.html %}
-  {% endfor %}
-</ul>
+{% for project in site.work %}
+  {% include card.html %}
+{% endfor %}
 
 <div class="clients">
   <p>I've also worked with</p>

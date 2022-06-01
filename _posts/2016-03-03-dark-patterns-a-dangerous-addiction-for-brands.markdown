@@ -15,19 +15,19 @@ Dark patterns are tempting to businesses because they’re a quick route to resu
 
 To avoid and eliminate dark patterns we have to identify them. Here are some questions to help you distinguish an honest, persuasive method from a deceptive dark pattern.
 
-# Was it deliberate?
+## Was it deliberate?
 
 [Hanlon’s Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) is a tongue-in-cheek observation that unpleasant situations are usually the result of thoughtlessness, rather than a deliberate attempt to ruin your day. First ask yourself if the technique was used deliberately. If it seems unintentional, you might be experiencing an anti-pattern: a dark pattern used in error.
 
-# Have I been misinformed?
+## Have I been misinformed?
 
 The [7th principle of persuasive technology design](http://dl.acm.org/citation.cfm?id=301410) states that “persuasive technologies must not misinform in order to achieve their persuasive end.” If the creators have used ambiguity to hide meaning, or omitted crucial information outright, that’s deception.
 
-# Did the deception improve my experience?
+## Did the deception improve my experience?
 
 Misinformation is usually a bad sign, but a bit of fibbing is forgivable if it’s for a good cause. [Dan Turner found](http://alistapart.com/article/design-white-lies-ethics) that a placebo route drawn between the pick-up and drop-off points in a ride sharing app reassured users, even though it was almost definitely wrong. A good white lie will make the user more effective, perhaps by reducing distraction, confusion, or the number of steps.
 
-# Does the designer benefit more than me?
+## Does the designer benefit more than me?
 
 Identifying the people who benefit from the technique, and who benefits most, can give you some insight into the motivation of the creator. [Chris Nodder described these four categories of design](http://evilbydesign.info/book/):
 
