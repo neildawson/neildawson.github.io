@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<article> 
+<article class="grid"> 
   <a href="/../blog">&larrhk; Blog</a>
   <h1>{{ page.title }}</h1>
   <p>{{ page.date | date_to_long_string: "ordinal", "US" }}</p>
   {{ content }}
 </article>
 
-<div class="pagenav">
+<div class="pagenav grid">
   {% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}">Previous: <br/> {{page.previous.title}} <br/> {{page.previous.date | date_to_long_string: "ordinal", "US" }}</a>
   {% endif %}

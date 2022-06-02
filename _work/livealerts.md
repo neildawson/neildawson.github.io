@@ -101,7 +101,7 @@ Ideally a push notification should be meaningful and valuable on its own. I was 
 
 For compliance reasons we couldn’t name the organisation in our messages, only in the app. Concerned this lack of transparency might worry customers, I proposed an option which explained *why* a hard search is made. We tested this against a version which instead directed customers to open the app for full details.
 
-**Version A (the call to action) performed best, with a 14.64% lead</mark> in clicks per send, and was selected for the full release.
+<mark>Version A (the call to action) performed best, with a 14.64% lead</mark> in clicks per send, and was selected for the full release.
 
 So we learned a bit about how to write engaging push notifications. Obviously, <mark>an A/B test couldn’t tell us if the message worried anyone</mark> unnecessarily, something I’d like to explore further one day!
 

@@ -2,19 +2,21 @@
 title: Portfolio
 ---
 
-<h1>Neil Dawson</h1>
+<section class="grid" id="home">
 
-I'm a cheerful Scottish product designer in London, and this is my wee corner of the web.
+  <h1>Neil Dawson</h1>
 
-<h2>Latest</h2>
+  <p>I'm a cheerful Scottish product designer in London, and this is my wee corner of the web.</p>
 
-{% for project in site.work limit: 1 %}
+  <h2>Latest</h2>
+
+  {% for project in site.work limit: 1 %}
     {% include card.html %}
-{% endfor %}
+  {% endfor %}
 
-{% for project in site.play limit: 1 %}
+  {% for project in site.play limit: 1 %}
     {% include card.html %}
-{% endfor %}
+  {% endfor %}
 
   {% for post in site.posts limit: 1 %}
     <li>
@@ -23,3 +25,4 @@ I'm a cheerful Scottish product designer in London, and this is my wee corner of
       {{ post.date | date: "%B %d %Y" }}
     </li>
   {% endfor %}
+</section>

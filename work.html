@@ -3,9 +3,12 @@ title: Work
 permalink: /work
 ---
 
-{% for project in site.work %}
-  {% include card.html %}
-{% endfor %}
+<section class="grid">
+  <h1 class="full-width">Work</h1>
+  {% for project in site.work %}
+    {% include card.html %}
+  {% endfor %}
+</section>
 
 <div class="clients">
   <p>I've also worked with</p>

@@ -1,6 +1,7 @@
 ---
 title: CV
 permalink: /cv
+layout: article
 ---
 
 # CV
@@ -94,4 +95,4 @@ An article for Usability Geek, August 2013
 Interactive Media Design BSc (Hons)  
 (Now known as [Digital Interaction Design](https://www.dundee.ac.uk/study/ug/digital-interaction-design/))  
 University of Dundee  
-2006 – 2010  
+2006 – 2010
