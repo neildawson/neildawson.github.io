@@ -1,6 +1,6 @@
 ---
 title: "Eligibility Hub"
-description: "Simultaneously building a product squad and a plain-speaking, personalised credit commentary feature"
+description: "Simultaneously building a product squad and a personalised credit commentary feature"
 ---
 
 In 2021 I moved to a new squad at TotallyMoney, named Mission Improve. We were tasked with “helping customers improve their financial situation and build financial momentum”.
@@ -10,12 +10,6 @@ I worked very closely with the product manager, mid-weight product designer, and
 We made a long-overdue feature that I’m really proud of. The Eligibility Hub highlights issues with your credit that are holding you back. Crucially, it doesn’t stop there, suggesting actions you can take to make a difference.
 
 Perhaps more importantly for me, we also designed our new team to represent our values and work the way we wanted.
-
-<br/>
-
-----
-
-<br/>
 
 ## A new mission
 
@@ -43,13 +37,8 @@ Armed with a great framework from my colleague Dave, I facilitated workshops to 
 
 > Everyone’s trying to get somewhere. We show people how far they’ve come, what to do next, and accompany them onward.
 
+
 <mark>By framing everything as a next step on a journey already underway, we hoped to diminish any sense of intimidation</mark>, motivating people to take action.
-
-<br/>
-
-----
-
-<br/>
 
 ## Our first project
 
@@ -85,13 +74,9 @@ Tom and I worked to create rules of thumb for what determines optimal and subopt
 
 I handled one of the factors, missed payments, from end to end. I conducted desk research, analogous research, held an ideation workshop, concepted, then proposed a few possible solutions. I enjoyed working closely with Craig, one of our front-end devs, who carried out a few quick “spikes” to assess the technical feasibility of each solution. <mark>We settled on a simple reminder system we could build quickly to validate the concept</mark>, piggybacking on iOS and Android calendar functionality to get some features for free.
 
-<br/>
-
-----
-
-<br/>
-
 ## Results and reflection
+
+![The eligibility hub in motion, showing personalised breakdown of factors holding you back from getting the best offers]({{ "/assets/eligibilityhub/dynamic-actions.gif" | absolute_url }})
 
 The eligibility hub, including the reminder system to combat missed payments, was still in development when I departed TotallyMoney. The hub has now launched and I’m keen to hear how it performed against our engagement goals. I’ll update this case study when I do!
 

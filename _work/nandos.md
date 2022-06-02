@@ -1,6 +1,6 @@
 ---
 title: "Get a Nando's"
-description: "Merging distinct delivery and collection ordering systems into an optimised experience that boosted conversions over 40%"
+description: "Merging distinct delivery and collection ordering systems, boosting conversions by over 40%"
 ---
 
 In late 2017 Nando’s began rolling out a home delivery service to their restaurants.
@@ -31,25 +31,19 @@ In the first twelve months of optimisation:
 <br/>
 
 ## Discovery
-Working in regular <mark>feature sprints</mark>  we spent at least one day a week at each other’s office so we were all around to collaborate, eat discounted chicken, and make use of the adult slide in the Nando’s lobby.
+Working in regular <mark>feature sprints</mark>, we spent at least one day a week at each other’s office so we were all around to collaborate, eat discounted chicken, and make use of the adult slide in the Nando’s lobby.
 
 I gathered info to <mark>map the existing processes</mark>  including email and SMS messaging.
 
 ![Flow diagram of the existing collection and delivery services]({{ "/assets/nandos/flow-old.png" | absolute_url }})
 <span class="post-meta">Flow diagram of the existing collection and delivery services</span>
 
-Through this, UI audits, user stories, and collaboration with the tech team and suppliers, we understood the systems and had the basis for a sprint plan and a <mark>preliminary flow for the new ordering journey</mark> We returned to this diagram throughout the project, updating the model to include backend touchpoints and serve as a master reference for the flow.
+Through this, UI audits, user stories, and collaboration with the tech team and suppliers, we understood the systems and had the basis for a sprint plan and a <mark>preliminary flow for the new ordering journey</mark>. We returned to this diagram throughout the project, updating the model to include backend touchpoints and serve as a master reference for the flow.
 
 ![Flow diagram of the proposed experience, combining delivery and collection, including backend touchpoints for developer reference]({{ "/assets/nandos/flow-new.png" | absolute_url }})
 <span class="post-meta">Flow diagram of the proposed experience, combining delivery and collection, including backend touchpoints for developer reference</span>
 
 In each sprint we tackled a few user stories and planned our process to suit.
-
-<br/>
-
------
-
-<br/>
 
 ## Design
 ### Streamlining registration and log in during check out
@@ -86,12 +80,6 @@ Working closely with the visual designer, we struck a balance between the bold, 
 As we prepared for launch, I worked with the analytics team to ensure their <mark>tracking specification</mark> included events and measures we could use later to assess performance and target areas for improvement.
 
 Throughout, I used <mark>sketching and note taking</mark> to record and make sense of information, explore ideas, and share concepts.
-
-<br/>
-
------
-
-<br/>
 
 ## Outcomes
 

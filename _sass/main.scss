@@ -27,6 +27,10 @@ img {
   grid-column-end: 4;
 }
 
+.pagenav {
+  margin-top: 50px;
+}
+
 @media (min-width: 1000px) {
 
     body {
@@ -113,7 +117,7 @@ a:hover {
 }
 
 h1, h2, h3 {
-  font-family: 'geomanistregular';
+  font-family: 'geomanistregular', sans-serif;
   font-weight: normal;
   line-height: 1;
 }
@@ -135,7 +139,7 @@ h3 {
 }
 
 .statement {
-  font-family: 'geomanistultra';
+  font-family: 'geomanistultra', sans-serif;
   text-transform: uppercase;
   font-size: 100px;
   line-height: .9;
@@ -150,14 +154,57 @@ body {
   line-height: 1.6;
 }
 
+p, ul {
+  margin: 0.5em 0; /* Halving the default margin, as using grid seems to double this */
+}
+
+li {
+  margin-bottom: 0.7em;
+}
+
 mark {
   background: #ff6;
   padding: 0 1px;  
 }
 
+blockquote {
+  font-style: italic;
+  font-size: 1.2em;
+}
+
+blockquote p::before {
+  font-family: 'geomanistultra', sans-serif;
+  content: "“";
+  color: #266;
+  font-style: normal;
+  margin-left: -0.6em;
+  padding-right: 0.1em;
+}
+
+blockquote p::after {
+  font-family: 'geomanistultra', sans-serif;
+  content: "”";
+  color: #266;
+  font-style: normal;
+  padding-left: 0.1em;
+}
+
+/* blockquote::after {
+  font-family: 'geomanistultra', sans-serif;
+  content: "”";
+  font-size: 3em;
+  float: right;
+  color: #266;
+  font-style: normal;
+  position: relative;
+  top: -1em;
+  right: -30px;
+} */
+
 .description {
-  font-size: 2em;
-  margin-top: 18px;
+  font-size: 1.5em;
+  margin-top: .5em;
+  line-height: 1.4em;
 }
 
 @media (min-width: 700px) {
@@ -180,6 +227,11 @@ mark {
 
   h3 {
     font-size: 2em;
+  }
+
+  .description {
+    font-size: 2em;
+    margin-top: 18px;
   }
 
 }

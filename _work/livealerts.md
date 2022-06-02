@@ -1,6 +1,6 @@
 ---
 title: "Live Alerts"
-description: "Bending a commercial tool into meaningful, timely emails and notifications that outperformed our best campaigns"
+description: "Bending a commercial tool into meaningful notifications that outperformed our best campaigns"
 ---
 
 The credit reporting system is designed for lenders, not consumers. These days we can all access our reports, but it’s usually still difficult to make sense of all the data. 
@@ -18,12 +18,6 @@ Timely messages to customers about meaningful changes in their credit profile ea
 **Results**
 - 37.04% click-to-open rate on our first alert
 - 40.67% click-to-open rate on the second
-
-<br/>
-
-----
-
-<br/>
 
 ## Assessing our options
 
@@ -67,23 +61,11 @@ The information architecture was unclear, and the layout was broken by a recent 
 
 I pushed to include a redesign of the searches area as part of this project, so we’d have a satisfying end-to-end journey.
 
-<br/>
-
-----
-
-<br/>
-
 ## Design
 
 Besides tidying up the broken UI and improving the IA, I was also keen to improve our explanation of the distinction between the two types of searches. 
 
 I won’t dwell too much on how I got there, as these things are covered in my other case studies, so in summary I: mapped potential journeys, facilitated a sketching workshop, collaborated with our UI specialist on required components not found in our design system, carried out ad-hoc testing of the new IA with some colleagues, and drafted copy for email and push notifications – amongst other things!
-
-<br/>
-
-----
-
-<br/>
 
 ## Results and reflection
 
@@ -94,6 +76,8 @@ The hard search alert email clocked in with a 32.55% open rate and a <mark>37.04
 Our next alert informed customers of new accounts appearing on their credit report, a piece of work I started before handing over to another team during a reshuffle. It performed even better: 40.67% CTO.
 
 ### A call to action outperformed an explanation
+
+![A live alert about a new account on your credit report]({{ "/assets/livealerts/live-alerts.gif" | absolute_url }})
 
 We ran an A/B test to learn a bit about how copy in a push notification affects open rates.
 

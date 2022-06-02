@@ -19,12 +19,6 @@ I'd been putting together a list of industry jargon and design principles (inspi
 - [UK Agency Awards' Best Mobile Campaign 2015](https://web.archive.org/web/20170222053834/www.ukagencyawards.com/2015-winners)
 - [Aarron Walter tweeted it](https://twitter.com/aarron/status/519829625917030400) 🤩
 
-<br/>
-
------
-
-<br/>
-
 ## A simple start
 
 I drew up a list of topics from classic design principles like the 80/20 rule, web design concepts like progressive enhancement, and UCD tools and terminology like mental models.

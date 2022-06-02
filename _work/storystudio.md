@@ -19,11 +19,7 @@ In Sainsbury's stores across the UK, fans could buy a gift box including  pop-ou
 - Over 170,000 movies created on Christmas day
 - [Epica Silver Award](http://winners.epica-awards.com/2017/winner/68-01579-DIG/analogfolk/story-studio)
 
-<br/>
-
-----
-
-<br/>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/213709553' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 ## Discovery
 
@@ -33,9 +29,12 @@ I didn't know!
 
 I started by researching <mark>best practice</mark>, and put together a list of twelve <mark>design principles</mark> which informed all of our subsequent decisions. Here are a few of my favourites:
 
-- Let them be experts – They don’t read instructions, so teach with post-failure messaging instead of up-front directions.
-- Give pleasant surprises – Add easter eggs: unexpected delights like the pull-down-to-refresh animation on Snapchat.
-- Be playful – Kids are already playful. We have to give them the opportunity to be playful in our app. Invite them to be silly.
+- **Let them be experts**\
+They don’t read instructions, so teach with post-failure messaging instead of up-front directions.
+- **Give pleasant surprises**\
+Add easter eggs: unexpected delights like the pull-down-to-refresh animation on Snapchat.
+- **Be playful**\
+Kids are already playful. We have to give them the opportunity to be playful in our app. Invite them to be silly.
 
 We asked some colleagues to bring their kids to work, so we could <mark>observe children using competitor apps</mark>. I wanted to understand what kids were capable of and how quickly they would grasp the necessary concepts, like sequentially building a movie frame by frame.
 
@@ -46,12 +45,6 @@ Though some of the children were younger than the target age group, I was pleasa
 I conducted <mark>competitor analysis</mark> to see what else was out there and find opportunities to differentiate our app.
 
 Based on this research, the tech lead, visual designer, and I performed a <mark>sorting exercise</mark> to group the many potential features into unnecessary, nice-to-have, and must-have categories.
-
-<br/>
-
-----
-
-<br/>
 
 ## Design
 
@@ -82,12 +75,6 @@ Following our principle to "give pleasant surprises", we took pleasure in adding
 
 We were working with an overseas development team, so it was crucial to ensure requirements were understood by everyone. I wrote a 27 page <mark>functional specification</mark> as a key reference for the devs, we held frequent calls, and communicated over Slack to work out the fine details.
 
-<br/>
-
------
-
-<br/>
-
 ## Outcomes
 
 ### Focusing on what's important
@@ -111,13 +98,5 @@ One of our design principles said to avoid boring kids with up-front lessons; le
 
 ![Teaching opportunity]({{ "/assets/storystudio/teaching.jpg" | absolute_url }})
 <span class="post-meta">Here the user has played a very short movie, so we teach them how to make it longer</span>
-
-<br/>
-
------
-
-<br/>
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/213709553' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 

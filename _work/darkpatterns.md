@@ -3,8 +3,6 @@ title: "Dark Times for Dark Patterns"
 description: "Talking downsides and alternatives to manipulative design practices at SxSW Interactive in Texas"
 ---
 
-![Dark Times for Dark Patterns]({{ "/assets/darkpatterns/hero.png" | absolute_url }})
-
 When my colleague Cristina and I discovered our mutual distaste for misleading design patterns, and curiosity for finding alternatives, we decided to pitch the idea as a talk at South by South West Interactive 2016.
 
 Dark patterns were a popular topic. Lots of people were writing up examples, but we felt few were talking about how to recognise a dark pattern, or how to deal with it.
