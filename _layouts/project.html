@@ -2,7 +2,8 @@
 layout: default
 ---
 <article class="grid">
-	<a href="/../{{ page.collection }}">&larrhk; {{ page.collection | capitalize }}</a>
+
+	<a href="/../{{ page.collection }}">&#8619; {{ page.collection | capitalize }}</a>
 	<h1>{{ page.title }}</h1>
 	<p class="description">{{ page.description }}</p>
 	<img class="full-width" src="/assets/{{ page.slug }}/hero.jpg">
@@ -13,15 +14,17 @@ layout: default
 <section class="pagenav grid">
   {% if page.previous.url %}
     <a class="prev card" href="{{page.previous.url}}">
-	  	<p>Previous:</p>
+	  	<p>&#8592; Previous</p>
 			<img src="/assets/{{ page.previous.slug }}/hero.jpg">
 			<span class="title">{{ page.previous.title }}</span>
 			<p>{{ page.previous.description }}</p>
 		</a>
+	{% else %}
+		<a href="/../{{ page.collection }}">&#8619; More projects</a>
   {% endif %}
   {% if page.next.url %}
     <a class="next card" href="{{page.next.url}}">
-	    <p>Next:</p>
+	    <p>Next &#8594;</p>
 	    <img src="/assets/{{ page.next.slug }}/hero.jpg">
 			<span class="title">{{ page.next.title }}</span>
 			<p>{{ page.next.description }}</p>

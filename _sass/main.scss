@@ -3,11 +3,15 @@
 -------------------------------------------------- */
 
 body {
-  margin:  0 auto 100px auto;
+  margin: 0 auto 100px auto;
 }
 
 img {
   width: 100%;
+}
+
+.pagenav {
+  margin-top: 50px;
 }
 
 .grid {
@@ -27,8 +31,20 @@ img {
   grid-column-end: 4;
 }
 
-.pagenav {
-  margin-top: 50px;
+@media (max-width: 700px) {
+
+  .next > img, .prev > img {
+    display: none;
+  }
+
+}
+
+@media (min-width: 700px) and (max-width: 1000px) {
+
+  .grid {
+    grid-template-columns: 1fr 4fr 1fr;
+  }
+
 }
 
 @media (min-width: 1000px) {
@@ -39,7 +55,7 @@ img {
 
     .grid {
       padding: 40px;
-      max-width: 1024px;
+      max-width: 1200px;
       grid-template-columns: 1fr 2fr 2fr 1fr;
       column-gap: 40px;
     }
@@ -49,7 +65,7 @@ img {
       grid-column-end: 4;
     }
 
-    .grid > .full-width {
+    .grid > .full-width, #work > h1, #play > h1 {
       grid-column-start: 1;
       grid-column-end: 5;
     }
@@ -64,6 +80,10 @@ img {
       grid-column-end: 5;      
     }
 
+    .grid > .next p:first-child {
+      float: right;
+    }
+
     .grid > .card:nth-of-type(odd) {
         grid-column-start: 1;
         grid-column-end: 3;   
@@ -75,8 +95,6 @@ img {
     }
 
   }
-
-
 
 /* TYPOGRAPHY
 -------------------------------------------------- */
@@ -124,7 +142,7 @@ h1, h2, h3 {
 
 h1 {
   font-size: 2.5em;
-  margin-bottom: 0;
+  margin-bottom: 0.7em;
   margin-top: .3em;
 }
 
@@ -136,6 +154,8 @@ h2 {
 
 h3 {
   font-size: 1.5em;
+  margin-bottom: 0.3em;
+  margin-top: 1.5em;
 }
 
 .statement {
@@ -154,7 +174,7 @@ body {
   line-height: 1.6;
 }
 
-p, ul {
+p {
   margin: 0.5em 0; /* Halving the default margin, as using grid seems to double this */
 }
 
@@ -162,14 +182,39 @@ li {
   margin-bottom: 0.7em;
 }
 
+ul {
+  list-style: none; /* Remove default bullets */
+  margin-top: 0.7em;
+  margin-bottom: 0;
+}
+
+ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #266; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+ul li ul li::before {
+  content: "·";
+}
+
 mark {
   background: #ff6;
   padding: 0 1px;  
 }
 
+strike {
+  text-decoration-thickness: 6px;
+}
+
 blockquote {
   font-style: italic;
   font-size: 1.2em;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 blockquote p::before {
@@ -399,29 +444,56 @@ nav :nth-child(6) {
 /* POSTS
 -------------------------------------------------- */
 
-.posts a {
+.blogpost {
   display: block;
-  padding: 1.5em 0;
+  padding: 1em 0;
   color: #000;
   border-bottom: 0;
     transition: transform 0.15s;
 }
 
-.posts a:hover {
+.blogpost:hover {
   transform: scale(1.05);
 }
 
-.posts a:hover .title {
+.blogpost:hover .title {
   background-image: linear-gradient(black 0%, black 100%);
   background-position: 0 1.15em;
   background-size: 1px 4px;
   background-repeat: repeat-x;
 }
 
-.posts .title {
+.blogpost .title {
   font-size: 1.8em;
   font-family: 'geomanistregular';
   line-height: 1.1em;
+}
+
+.blogpost p {
+  margin-top: 0;
+}
+
+/* HOME
+-------------------------------------------------- */
+
+#home h1 {
+  margin-bottom: 0.3em;
+}
+
+@media (min-width: 700px) {
+
+  #home h2:first-of-type {
+    text-align: center;
+    margin-bottom: 1em;
+  }
+
+}
+
+/* ABOUT
+-------------------------------------------------- */
+
+#about h1 {
+  margin-bottom: 0;
 }
 
 /* CLIENTS

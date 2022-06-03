@@ -7,22 +7,22 @@ title: Portfolio
   <h1>Neil Dawson</h1>
 
   <p>I'm a cheerful Scottish product designer in London, and this is my wee corner of the web.</p>
+  <p>At the moment I'm looking for a permanent, in-house position in London. If you like what you see, <a href="https://www.linkedin.com/in/neildawson/">get in touch</a>.</p>
 
-  <h2>Latest</h2>
+  <h2>Latest projects</h2>
 
-  {% for project in site.work limit: 1 %}
+  {% for project in site.work limit:2 %}
     {% include card.html %}
   {% endfor %}
 
-  {% for project in site.play limit: 1 %}
+  {% for project in site.play limit: 2 %}
     {% include card.html %}
   {% endfor %}
 
-  {% for post in site.posts limit: 1 %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <!-- {{ post.excerpt }} -->
-      {{ post.date | date: "%B %d %Y" }}
-    </li>
+  <h2>Latest Posts</h2>
+
+  {% for post in site.posts limit: 3 %}
+    {% include blogpost.html %}
   {% endfor %}
+
 </section>

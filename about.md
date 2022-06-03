@@ -1,21 +1,24 @@
 ---
 title: About
 permalink: /about
-layout: article
 ---
 
-# About
+<section class="grid" id="about">
 
-![It's me]({{ "/assets/about/neil.jpg" | absolute_url }})
+<h1>About</h1>
 
-Professional designer
+<p class="description">Intermediate snowboarder, amateur photographer, enthusiastic gamer, mediocre guitarist</p>
 
-Intermediate snowboarder
+<img src="/assets/about/neil.jpg" class="full-width">
 
-Amateur photographer
+<p>Very important facts:</p>
 
-Enthusiastic gamer
+<ul>
+	<li>I call myself <em>TerminalVeracity</em> online because I'm honest to a fault, and it sounds a bit like the <a href="https://theculture.fandom.com/wiki/List_of_spacecraft#Novels">Iain M. Banks spaceship name I actually wanted</a>.</li>
+	<li>When I look straight up without moving my head, my eyes go squint.</li>
+	<li>I had a letter read out on the final episode of <em>Live & Kicking</em> hosted by Zoe Ball and Jamie Theakston.</li>
+</ul>
 
-Mediocre guitarist
+<p>Still here? Stalk further on <a href="https://www.instagram.com/terminalveracity/">Instagram</a>, <a href="https://www.last.fm/user/deepthought">Last.fm</a>, and <a href="https://twitter.com/neildawson">Twitter</a>.</p>
 
-Find me on [Instagram](https://www.instagram.com/terminalveracity/), [Last.fm](https://www.last.fm/user/deepthought), and [Twitter](http://www.twitter.com/neildawson)
+</section>

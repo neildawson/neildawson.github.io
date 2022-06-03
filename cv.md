@@ -57,7 +57,7 @@ September 2015 – September 2018
 - Worked closely with Dulux to improve key journeys in their custom paint ordering service, [*Amazing Space Paint*](https://web.archive.org/web/20200920052116/https://www.analogfolk.com/work/amazing-space-paint), based on detailed analytics and focus group findings.
 - Led a one day <mark>rapid/paper prototyping workshop</mark> for staff at AXA PPP Healthcare.
 
-### Junior &#8594; Senior User Experience Designer, Cyber-Duck
+### <strike>Junior</strike> <strike>Mid-weight</strike> Senior User Experience Designer, Cyber-Duck
 June 2011 – August 2015
 
 - Project manager and UX lead on more than 15 projects.

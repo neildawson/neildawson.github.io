@@ -48,9 +48,9 @@ Lots of factors influence your credit score and your eligibility for a credit pr
 
 Consequently, there are many actions you can take to improve your scores, so we needed to narrow our focus. <mark>Tom and I built a model of all the factors influencing both scores</mark>. We gathered data points and other considerations, including:
 
-- Impact, or how much weight each factor carried in each score calculation (sourced from supplier documentation and a study by our data science team)
-- Number of TotallyMoney customers currently affected
-- Quality of the existing experience in our product (if any!)
+- **Impact**, or how much weight each factor carried in each score calculation (sourced from supplier documentation and a study by our data science team)
+- **Quantity** of TotallyMoney customers currently affected
+- **Quality** of the existing experience in our product (if any!)
 
 Now we could see which factors were common to both scores and assess their importance, <mark>we prioritised the list to determine where to start</mark>. We settled on a short list of impactful factors we’d explain to customers in an initial release, planning to follow up with more factors later.
 

@@ -1,0 +1,5 @@
+<a href="{{ post.url }}" class="blogpost">
+  <span class="title">{{ post.title }}</span>
+  <p>{{ post.date | date_to_long_string: "ordinal", "US" }}</p>
+  <!-- {{ post.excerpt }} -->
+</a>
