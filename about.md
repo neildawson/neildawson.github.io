@@ -7,14 +7,14 @@ permalink: /about
 
 <h1>About</h1>
 
-<p class="description">Intermediate snowboarder, amateur photographer, enthusiastic gamer, mediocre guitarist</p>
+<p class="description">Confident snowboarder, occasional photographer, enthusiastic gamer, mediocre guitarist</p>
 
 <img src="/assets/about/neil.jpg" class="full-width">
 
 <p>Very important facts:</p>
 
 <ul>
-	<li>I call myself <em>TerminalVeracity</em> online because I'm honest to a fault, and it sounds a bit like the <a href="https://theculture.fandom.com/wiki/List_of_spacecraft#Novels">Iain M. Banks spaceship name I actually wanted</a>.</li>
+	<li>I call myself <em>TerminalVeracity</em> online because I'm honest to a fault, and it sounds like an <a href="https://theculture.fandom.com/wiki/List_of_spacecraft#Novels">Iain M. Banks spaceship name</a>.</li>
 	<li>When I look straight up without moving my head, my eyes go squint.</li>
 	<li>I had a letter read out on the final episode of <em>Live & Kicking</em> hosted by Zoe Ball and Jamie Theakston.</li>
 </ul>

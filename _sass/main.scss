@@ -14,6 +14,7 @@ img {
   margin-top: 50px;
 }
 
+
 .grid {
   margin: 0 auto;
   padding-top: 20px;
@@ -81,7 +82,13 @@ img {
     }
 
     .grid > .next p:first-child {
-      float: right;
+      text-align: right;
+    }
+
+    .lonely {
+
+        grid-column-start: 2 !important;
+        grid-column-end: 4 !important;   
     }
 
     .grid > .card:nth-of-type(odd) {
