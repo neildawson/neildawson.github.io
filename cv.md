@@ -6,9 +6,9 @@ layout: article
 
 # CV
 
-I'm an experience designer with over ten years in the industry, known for my thoroughness, care, authenticity, and humour.
+<p class="description">I'm an experience designer with over ten years in the industry, known for my thoroughness, care, authenticity, and humour.</p>
 
-<mark>I fight for the users</mark>.
+<p class="description"><mark>I fight for the users</mark>.</p>
 
 With a background in both computing and design, I collaborate with designers, developers, and stakeholders in other disciplines to plan, test, and launch successful products.
 

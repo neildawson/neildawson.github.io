@@ -53,13 +53,11 @@ Based on this research, the tech lead, visual designer, and I performed a <mark>
 
 I fleshed out the list of features with an <mark>app map</mark> to ensure the number of views we were planning was within scope, and to establish an early model of the user journey.
 
-![App map]({{ "/assets/storystudio/appmap.png" | absolute_url }})
-<span class="post-meta">The fourth and final version of the app map, with key user journeys highlighted in blue and orange</span>
+{% include figure.html file="/assets/storystudio/appmap.png" alt="App map" caption="The fourth and final version of the app map, with key user journeys highlighted in blue and orange" full-width="true" %}
 
 When I had explored most features in sketch form, I put together a rough <mark>wireflow</mark> to demonstrate the direction to other stakeholders.
 
-![Wireflow]({{ "/assets/storystudio/wireflow.jpg" | absolute_url }})
-<span class="post-meta">Rough wireflow showing how the user navigates between views</span>
+{% include figure.html file="/assets/storystudio/wireflow.jpg" alt="Wireflow" caption="Rough wireflow showing how the user navigates between views" %}
 
 When most elements were in place, I created a <mark>click-through wireframe</mark> in Axure RP to approximate dimensions for UI elements and test page transition animations.
 
@@ -83,8 +81,7 @@ Based on the competitor research and user observation, I established a new model
 
 The UI is literally centred around the movie, with the surrounding controls changing to suit the mode. Apply a filter, see it on the movie. Change the framerate, see the movie at that speed.
 
-![Editing a movie]({{ "/assets/storystudio/edit.jpg" | absolute_url }})
-<span class="post-meta">The movie is always in the same position, the controls around it change depending on the selected mode</span>
+{% include figure.html file="/assets/storystudio/edit.jpg" alt="Editing a movie" caption="The movie is always in the same position, the controls around it change depending on the selected mode" %}
 
 ### "Somebody stole my banger!"
 
@@ -96,7 +93,6 @@ We scripted the video to showcase core features like title cards, sound effects,
 
 One of our design principles said to avoid boring kids with up-front lessons; let them make mistakes, and use those as <mark>teaching opportunities</mark>. We identified five such opportunities, each triggering a tip explaining what happened and how to fix it.
 
-![Teaching opportunity]({{ "/assets/storystudio/teaching.jpg" | absolute_url }})
-<span class="post-meta">Here the user has played a very short movie, so we teach them how to make it longer</span>
+{% include figure.html file="/assets/storystudio/teaching.jpg" alt="Teaching opportunity" caption="Here the user has played a very short movie, so we teach them how to make it longer" %}
 
 

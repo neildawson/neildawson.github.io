@@ -14,7 +14,7 @@ permalink: /about
 <p>Very important facts:</p>
 
 <ul>
-	<li>I call myself <em>TerminalVeracity</em> online because I'm honest to a fault, and it sounds like an <a href="https://theculture.fandom.com/wiki/List_of_spacecraft#Novels">Iain M. Banks spaceship name</a>.</li>
+	<li>I call myself <em>TerminalVeracity</em> online because it sounds like an <a href="https://theculture.fandom.com/wiki/List_of_spacecraft#Novels">Iain M. Banks spaceship</a>, and because I'm honest to the last.</li>
 	<li>When I look straight up without moving my head, my eyes go squint.</li>
 	<li>I had a letter read out on the final episode of <em>Live & Kicking</em> hosted by Zoe Ball and Jamie Theakston.</li>
 </ul>

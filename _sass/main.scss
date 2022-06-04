@@ -14,7 +14,6 @@ img {
   margin-top: 50px;
 }
 
-
 .grid {
   margin: 0 auto;
   padding-top: 20px;
@@ -24,7 +23,7 @@ img {
 
 .grid * {
   grid-column-start: 2;
-  grid-column-end: 2;
+  grid-column-end: 3;
 }
 
 .grid > .full-width {
@@ -82,6 +81,10 @@ img {
     }
 
     .grid > .next p:first-child {
+      text-align: right;
+    }
+
+    .blogpost.next {
       text-align: right;
     }
 
@@ -239,6 +242,26 @@ blockquote p::after {
   color: #266;
   font-style: normal;
   padding-left: 0.1em;
+}
+
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figcaption {
+  color: #888;
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+@media (max-width: 1000px) {
+
+  .full-width figcaption {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
 }
 
 /* blockquote::after {

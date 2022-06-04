@@ -11,8 +11,7 @@ Mohamed’s insights into adoption of new technology in the newsroom and the way
 
 I recently got in touch with a relative, known for his writing in [the Scotsman](http://www.scotsman.com/), to seek feedback on my project. He thought it was “a cool idea” but describes himself as a member of “the dinosaur school of journalism” who believe good-old-fashioned talking to people is much more productive than using search engines and other digital tools to generate stories. Similarly, Mohammed recounted Al Jazeera’s scrapped plans for a citizen media portal and declared that he too prefers to conduct his own research rather than rely on submissions or automated source aggregation tools, which often simply return too much data to be of use.
 
-![Fox News interviewing engineers]({{ "/assets/knightmozilla/fox-news-interviews-engineers.jpg" | absolute_url }})  
-*It's not surprising journalists prefer to conduct their own research rather than rely on content encountered on the web, particularly if they did not discover it themselves*
+{% include figure.html file="/assets/knightmozilla/fox-news-interviews-engineers.jpg" alt="Fox News interviewing engineers" caption="It's not surprising journalists prefer to conduct their own research rather than rely on content encountered on the web, particularly if they did not discover it themselves" %}
 
 In week one [I wondered](http://neildawson.org/blog/?p=71) if the real power of my tool would lie “not in the wild tangle [of information] but in the pruned or grafted specimens its users will create and share”.
 

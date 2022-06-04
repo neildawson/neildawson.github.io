@@ -13,5 +13,4 @@ We refined our talk by presenting to colleagues and meetups, and I presented a c
 
 Check out [my writeup on identifying dark patterns](https://analogfolk.com/news/dark-patterns), [the slide deck](https://www.slideshare.net/criviga/dark-times-for-dark-patterns-59440001), an [audio recording from the SXSW talk](https://soundcloud.com/officialsxsw/dark-times-for-dark-patterns-ethical-alternatives-sxsw-interactive-2016/), or a full [video of the first public showing at Outreach Digital meetup](https://www.youtube.com/watch?v=azgFV34qQ_I).
 
-![Sketch notes from a SXSW audience member]({{ "/assets/darkpatterns/sketchnotes.JPG" | absolute_url }})
-<span class="post-meta">[Sketch notes by @honoria](https://twitter.com/honoria/status/708372819915120640), a SXSW audience member</span>
+{% include figure.html file="/assets/darkpatterns/sketchnotes.JPG" caption="[Sketch notes by @honoria](https://twitter.com/honoria/status/708372819915120640), a SXSW audience member" alt="Sketch notes from a SXSW audience member" %}

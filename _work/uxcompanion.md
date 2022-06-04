@@ -1,6 +1,6 @@
 ---
 title: "UX Companion"
-description: "A handy, popular glossary of user experience theories, tools, and principles"
+description: "A handy glossary of user experience theories, tools, and principles"
 ---
 
 At Cyber-Duck, we were looking for a simple app idea to get our teeth into iOS development.

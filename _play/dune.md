@@ -1,6 +1,6 @@
 ---
 title: "Litany Against Fear"
-description: "A single-colour screen print based on Frank Herbert’s *Dune*"
+description: "A single-colour screen print based on Frank Herbert’s 'Dune'"
 ---
 
 Designed for a team outing to Print Club London.
@@ -9,4 +9,4 @@ Designed for a team outing to Print Club London.
 
 ![I will not fear]({{ "/assets/dune/crop1.jpg" | absolute_url }})
 
-![Only I will remain]({{ "/assets/dune/crop2.jpg" | absolute_url }})
+{% include figure.html file="/assets/dune/crop2.jpg" alt="Only I will remain" full-width="true" %}

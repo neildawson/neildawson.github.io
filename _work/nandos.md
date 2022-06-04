@@ -35,13 +35,11 @@ Working in regular <mark>feature sprints</mark>, we spent at least one day a wee
 
 I gathered info to <mark>map the existing processes</mark>  including email and SMS messaging.
 
-![Flow diagram of the existing collection and delivery services]({{ "/assets/nandos/flow-old.png" | absolute_url }})
-<span class="post-meta">Flow diagram of the existing collection and delivery services</span>
+{% include figure.html file="/assets/nandos/flow-old.png" alt="Flow diagram of the existing collection and delivery services" caption="Flow diagram of the existing collection and delivery services" full-width="true" %}
 
 Through this, UI audits, user stories, and collaboration with the tech team and suppliers, we understood the systems and had the basis for a sprint plan and a <mark>preliminary flow for the new ordering journey</mark>. We returned to this diagram throughout the project, updating the model to include backend touchpoints and serve as a master reference for the flow.
 
-![Flow diagram of the proposed experience, combining delivery and collection, including backend touchpoints for developer reference]({{ "/assets/nandos/flow-new.png" | absolute_url }})
-<span class="post-meta">Flow diagram of the proposed experience, combining delivery and collection, including backend touchpoints for developer reference</span>
+{% include figure.html file="/assets/nandos/flow-new.png" caption="Flow diagram of the proposed experience, combining delivery and collection, including backend touchpoints for developer reference" full-width="true" %}
 
 In each sprint we tackled a few user stories and planned our process to suit.
 
@@ -50,8 +48,7 @@ In each sprint we tackled a few user stories and planned our process to suit.
 
 Our main objective was to better integrate registration into the check out flow. In the pre-existing journey, unregistered users trying to check out were routed to the registration journey, then back to check out. The step tracker didn’t reflect this, showing the user stuck on the first step of check out even as they navigated multiple pages to register. Wording made it difficult to find the registration option, and the form itself repeated fields from other pages.
 
-![Signing in on the old site]({{ "/assets/nandos/login-old.jpg" | absolute_url }})
-<span class="post-meta">Signing in on the old site – the "Hatch a new account" link leads to registration</span>
+{% include figure.html file="/assets/nandos/login-old.jpg" caption="Signing in on the old site – the 'Hatch a new account' link leads to registration" alt="Sign in form on the old site" %}
 
 Through conversations with Nando’s stakeholders, back end suppliers, and our tech team, I proposed a streamlined flow to address these points while <mark>respecting technical constraints</mark>
 
@@ -69,13 +66,11 @@ We took inspiration from Metro Bank’s principle of avoiding shutters and glass
 
 I integrated the two-step log in process into a <mark>responsive Axure RP prototype</mark> of the whole ordering journey, including form logic to recognise email addresses so we could test flows for recognised and unrecognised users. I conducted four rounds of <mark>user testing</mark> with the prototype, including two guerrilla sessions in Nando’s restaurants.
 
-![Axure RP prototype of the check out journey running on mobile]({{ "/assets/nandos/prototype.jpg" | absolute_url }})
-<span class="post-meta">Axure RP prototype of the check out journey running on mobile – the customer's email address has been recognised, so they see a login form instead of a registration form</span>
+{% include figure.html file="/assets/nandos/prototype.jpg" caption="Axure RP prototype of the check out journey running on mobile – the customer's email address has been recognised, so they see a login form instead of a registration form" alt="Axure RP prototype of the check out journey running on mobile" %}
 
 Working closely with the visual designer, we struck a balance between the bold, fun Nando’s branding and the clarity required for a smooth customer experience.
 
-![Recognising a registered user]({{ "/assets/nandos/login-new.png" | absolute_url }})
-<span class="post-meta">Recognising a registered user</span>
+{% include figure.html file="/assets/nandos/login-new.png" caption="On the left, the combined registration and sign in form as it appears on arrival. On the right, the form has recognising the email address of a registered user, so shows the password field." alt="Recognising a registered user" %}
 
 As we prepared for launch, I worked with the analytics team to ensure their <mark>tracking specification</mark> included events and measures we could use later to assess performance and target areas for improvement.
 
@@ -91,8 +86,7 @@ The old collection site had two search fields: search by your location, or searc
 
 The first field was actually a lot smarter than postcode search. You can search by almost anything: postcode, house name, the nearest pub… so we removed the second field. It’s Google search, but for chicken.
 
-![Searching on the old collection site vs. the new combined site]({{ "/assets/nandos/search.png" | absolute_url }})
-<span class="post-meta">Searching on the old collection site vs. the new combined site – we removed an unnecessary field and made the flexibility of the other apparent</span>
+{% include figure.html file="/assets/nandos/search.png" caption="On the left, the two search fields on the old site. On the right, the new site where removed an unnecessary field and made the flexibility of the other apparent." alt="Simplifying the restaurant search by removing a field" %}
 
 ### Decisions, decisions
 
@@ -106,8 +100,7 @@ Search results on the collection site showed a lot of information about the sele
 
 We condensed restaurant details into an expandable, reusable module. Only the most critical details are always visible, relevant information is available in the expanded area, and we link to the restaurant’s full details page for irrelevant information.
 
-![Restaurant search results on the old collection site vs. the new combined site]({{ "/assets/nandos/restaurants.png" | absolute_url }})
-<span class="post-meta">Restaurant search results on the old collection site vs. the new combined site – the new restaurant details module can expand and collapse, showing only the most important details</span>
+{% include figure.html file="/assets/nandos/restaurants.png" caption="Left: restaurant search results on the old collection site. Right: the new restaurant details module shows only the most important details – name, distance, and delivery time – and can expand to show extra information." alt="Simplifying search results and showing only the most important details" %}
 
 ### Speed run
 

@@ -31,10 +31,10 @@ Misinformation is usually a bad sign, but a bit of fibbing is forgivable if itâ€
 
 Identifying the people who benefit from the technique, and who benefits most, can give you some insight into the motivation of the creator. [Chris Nodder described these four categories of design](http://evilbydesign.info/book/):
 
-- Charitable design benefits society above all others
-- Motivational design benefits the user above all others
-- Commercial design benefits the creator and the user equally
-- Evil design benefits the creator above all others
+- **Charitable design** benefits society above all others
+- **Motivational design** benefits the user above all others
+- **Commercial design** benefits the creator and the user equally
+- **Evil design** benefits the creator above all others
 
 If the creators are getting significantly more out of the exchange than the user, they have only their own interests at heart - their work falls into the evil category.
   
