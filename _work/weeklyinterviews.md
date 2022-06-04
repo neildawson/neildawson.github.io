@@ -1,25 +1,25 @@
 ---
 title: "Weekly Customer Interviews"
 description: "Establishing a continuous, lightweight research habit to broaden our customer knowledge"
+introduction: >
+ At TotallyMoney we often ran usability tests and interviews with a project focus, but rarely conducted broader research to learn more about our customers and find new opportunities.
+ 
+ 
+ When my squad made a commitment to listen to our customers every week, I built a habit of regular customer interviews, then developed it into a shared product design practice.
+ 
+ 
+ I learned (and proved to the business) that discovery research doesn’t have to be big, time consuming, and occasional.
+responsibilities:
+  - "Making it happen!"
+  - "Interview design and facilitation"
+  - "Screening and scheduling participants"
+  - "Coaching facilitators"
+  - "Wrangling observers and observations"
+results:
+  - "Over 15 weekly interviews (and counting!)"
+  - "More than a third of the company attended an interview"
+  - "Now an established ritual for the team"
 ---
-
-At TotallyMoney we often ran usability tests and interviews with a project focus, but rarely conducted broader research to learn more about our customers and find new opportunities.
-
-When my squad made a commitment to listen to our customers every week, I built a habit of regular customer interviews, then developed it into a shared product design practice.
-
-I learned (and proved to the business) that discovery research doesn’t have to be big, time consuming, and occasional.
-
-### My responsibilities
-- Making it happen!
-- Interview design and facilitation
-- Screening and scheduling participants
-- Coaching facilitators
-- Wrangling observers and observations
-
-### Results
-- Over 15 weekly interviews (and counting!)
-- More than a third of the company attended an interview
-- Now an established ritual for the team
 
 ## How it started
 

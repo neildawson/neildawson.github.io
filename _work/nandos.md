@@ -1,34 +1,25 @@
 ---
 title: "Get a Nando's"
 description: "Merging distinct delivery and collection ordering systems, boosting conversions by over 40%"
+introduction: >
+ In late 2017 Nando’s began rolling out a home delivery service to their restaurants.
+ 
+ 
+ Collection had been around for a while and [customers were excited for home delivery](http://www.ladbible.com/news/food-uk-nandos-has-officially-launched-its-own-delivery-service-20171105) from the UK’s top casual dining restaurant, but the two ordering options had completely distinct experiences.
+ 
+ 
+ In 2018 we came on board to merge collection into the newer delivery system, and improve both journeys in the process.
+responsibilities:
+  - "Research"
+  - "Feature planning"
+  - "Prototyping"
+  - "Guerrilla testing"
+  - "Client liaison"
+  - "Development liaison"
+results:
+  - "Conversion rate increased 41.45%"
+  - "Average order value increased 2.12%"
 ---
-
-In late 2017 Nando’s began rolling out a home delivery service to their restaurants.
-
-Collection had been around for a while and [customers were excited for home delivery](http://www.ladbible.com/news/food-uk-nandos-has-officially-launched-its-own-delivery-service-20171105) from the UK’s top casual dining restaurant, but the two ordering options had completely distinct experiences.
-
-In 2018 we came on board to merge collection into the newer delivery system, and improve both journeys in the process.
-
-**My responsibilities**
-- Research
-- Feature planning
-- Prototyping
-- Guerrilla testing
-- Client liaison
-- Development liaison
-
-**Results**
-
-In the first twelve months of optimisation:
-
-- Conversion rate increased 41.45%
-- Average order value increased 2.12%
-
-<br/>
-
------
-
-<br/>
 
 ## Discovery
 Working in regular <mark>feature sprints</mark>, we spent at least one day a week at each other’s office so we were all around to collaborate, eat discounted chicken, and make use of the adult slide in the Nando’s lobby.

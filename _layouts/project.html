@@ -3,11 +3,29 @@ layout: default
 ---
 <article class="grid">
 
-	<a href="/../{{ page.collection }}">&#8619; {{ page.collection | capitalize }}</a>
+	<p id="back"><a href="/../{{ page.collection }}" >&#8619; {{ page.collection | capitalize }}</a></p>
 	<h1>{{ page.title }}</h1>
 	<p class="description">{{ page.description }}</p>
-	<img class="full-width" src="/assets/{{ page.slug }}/hero.jpg">
+	<img class="full-width hero" src="/assets/{{ page.slug }}/hero.jpg">
 
+	{{ page.introduction | markdownify}}
+
+	{% if page.responsibilities %}
+		<aside class="details">
+			<figure>
+				<figcaption>Responsibilities</figcaption>
+					{% for line in page.responsibilities %}
+						{{ line | prepend: "- " | markdownify }}
+					{% endfor %}
+			</figure>
+			<figure>
+				<figcaption>Results</figcaption>
+					{% for line in page.results %}
+						{{ line | prepend: "- " | markdownify }}
+					{% endfor %}
+			</figure>
+		</aside>
+	{% endif %}
 	{{ content }}
 </article>
 

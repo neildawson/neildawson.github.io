@@ -1,23 +1,23 @@
 ---
 title: "Live Alerts"
 description: "Bending a commercial tool into meaningful notifications that outperformed our best campaigns"
+introduction: >
+ The credit reporting system is designed for lenders, not consumers. These days we can all access our reports, but it’s usually still difficult to make sense of all the data. 
+ 
+ 
+ When TotallyMoney gained access to a new daily feed of significant credit report changes, we set out to bend this tool for lenders into a customer-centric service, while boosting app engagement.
+ 
+ 
+ Timely messages to customers about meaningful changes in their credit profile easily outperformed our typical reactive emails, and made a great test bed for our first push notifications.
+responsibilities:
+  - "Analysed and documented the API"
+  - "Jointly selected our first alert"
+  - "Revamped UI and IA for native and web"
+  - "Drafted and A/B tested copy for email and push"
+results:
+  - "37.04% click-to-open rate on our first alert"
+  - "40.67% click-to-open rate on the second"
 ---
-
-The credit reporting system is designed for lenders, not consumers. These days we can all access our reports, but it’s usually still difficult to make sense of all the data. 
-
-When TotallyMoney gained access to a new daily feed of significant credit report changes, we set out to bend this tool for lenders into a customer-centric service, while boosting app engagement.
-
-Timely messages to customers about meaningful changes in their credit profile easily outperformed our typical reactive emails, and made a great test bed for our first push notifications.
-
-**My responsibilities**
-- Analysed and documented the API
-- Jointly selected our first alert
-- Revamped UI and IA for native and web
-- Drafted and A/B tested copy for email and push
-
-**Results**
-- 37.04% click-to-open rate on our first alert
-- 40.67% click-to-open rate on the second
 
 ## Assessing our options
 

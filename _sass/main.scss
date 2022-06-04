@@ -152,7 +152,7 @@ h1, h2, h3 {
 
 h1 {
   font-size: 2.5em;
-  margin-bottom: 0.7em;
+  margin-bottom: 0.3em;
   margin-top: .3em;
 }
 
@@ -217,7 +217,7 @@ mark {
 }
 
 strike {
-  text-decoration-thickness: 6px;
+  text-decoration-thickness: 5px;
 }
 
 blockquote {
@@ -255,6 +255,17 @@ figcaption {
   font-size: 0.9em;
 }
 
+#back {
+  margin: 0;
+}
+
+.note {
+  background: #eee;
+  padding: 20px;
+  font-style: italic;
+  margin-bottom: 1em;
+}
+
 @media (max-width: 1000px) {
 
   .full-width figcaption {
@@ -278,7 +289,7 @@ figcaption {
 
 .description {
   font-size: 1.5em;
-  margin-top: .5em;
+  margin-top: 0;
   line-height: 1.4em;
 }
 
@@ -306,7 +317,6 @@ figcaption {
 
   .description {
     font-size: 2em;
-    margin-top: 18px;
   }
 
 }
@@ -471,6 +481,39 @@ nav :nth-child(6) {
   background-size: 1px 4px;
 }
 
+/* PROJECTS
+-------------------------------------------------- */
+
+.hero {
+  margin-bottom: 1.2em;
+}
+
+.details figcaption {
+  font-family: 'geomanistregular', sans-serif;
+  color: #000;
+  font-style: normal;
+  font-size: 2em;
+}
+
+.details {
+  margin-top: 3em;
+  /* margin-bottom: 4em; */
+}
+
+@media (min-width: 1250px) {
+
+  .details figure:first-of-type {
+    width: 50%;
+    float: left;
+  }
+
+  .details figure:nth-of-type(2) {
+    width: 50%;
+    float: right;
+  }
+
+}
+
 /* POSTS
 -------------------------------------------------- */
 
@@ -506,10 +549,6 @@ nav :nth-child(6) {
 /* HOME
 -------------------------------------------------- */
 
-#home h1 {
-  margin-bottom: 0.3em;
-}
-
 @media (min-width: 700px) {
 
   #home h2:first-of-type {
@@ -517,13 +556,6 @@ nav :nth-child(6) {
     margin-bottom: 1em;
   }
 
-}
-
-/* ABOUT
--------------------------------------------------- */
-
-#about h1 {
-  margin-bottom: 0;
 }
 
 /* CLIENTS

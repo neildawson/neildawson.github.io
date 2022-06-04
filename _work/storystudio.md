@@ -1,23 +1,22 @@
 ---
 title: "Sainsbury's Story Studio"
 description: "A best-in-class kids stop-motion movie app for the supermarket's annual Christmas campaign"
+introduction: >
+ Every year, UK brands compete to create the most memorable Christmas ad. In 2016 Sainsbury's pulled out all the stops for [*The Greatest Gift*](https://www.youtube.com/watch?v=bq5SGSCZe4E): three and a half minutes of stop-motion animation and a soundtrack by [Bret McKenzie](https://en.wikipedia.org/wiki/Bret_McKenzie) and [James Corden](https://en.wikipedia.org/wiki/James_Corden).
+ 
+ 
+ In Sainsbury's stores across the UK, fans could buy a gift box including  pop-out characters and sets from the ad. We created a bespoke stop-motion movie app for iOS and Android, empowering children to create their own masterpieces in the world of *The Greatest Gift* – and beyond!
+responsibilities:
+  - "Formative research"
+  - "User testing with children"
+  - "Feature planning"
+  - "Collaborative design"
+  - "Client liaison"
+  - "Development liaison"
+results:
+  - "Over 170,000 movies created on Christmas day"
+  - "[Epica Silver Award](http://winners.epica-awards.com/2017/winner/68-01579-DIG/analogfolk/story-studio)"
 ---
-
-Every year, UK brands compete to create the most memorable Christmas ad. In 2016 Sainsbury's pulled out all the stops for [*The Greatest Gift*](https://www.youtube.com/watch?v=bq5SGSCZe4E): three and a half minutes of stop-motion animation and a soundtrack by [Bret McKenzie](https://en.wikipedia.org/wiki/Bret_McKenzie) and [James Corden](https://en.wikipedia.org/wiki/James_Corden).
-
-In Sainsbury's stores across the UK, fans could buy a gift box including  pop-out characters and sets from the ad. We created a bespoke stop-motion movie app for iOS and Android, empowering children to create their own masterpieces in the world of *The Greatest Gift* – and beyond!
-
-**My responsibilities**
-- Formative research
-- User testing with children
-- Feature planning
-- Collaborative design
-- Client liaison
-- Development liaison
-
-**Results**
-- Over 170,000 movies created on Christmas day
-- [Epica Silver Award](http://winners.epica-awards.com/2017/winner/68-01579-DIG/analogfolk/story-studio)
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/213709553' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 

@@ -6,11 +6,11 @@ layout: article
 
 # CV
 
-<p class="description">I'm an experience designer with over ten years in the industry, known for my thoroughness, care, authenticity, and humour.</p>
+<p class="description">I'm an experience designer with over ten years in the industry, known for my thoroughness, care, and humour.</p>
 
 <p class="description"><mark>I fight for the users</mark>.</p>
 
-With a background in both computing and design, I collaborate with designers, developers, and stakeholders in other disciplines to plan, test, and launch successful products.
+With a background in both computing and design, I work closely with tech, product, and other stakeholders to create successful products.
 
 For professional enquiries, contact me on [LinkedIn](http://www.linkedin.com/in/neildawson).
 

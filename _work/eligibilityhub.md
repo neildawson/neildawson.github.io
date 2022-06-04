@@ -1,15 +1,18 @@
 ---
 title: "Eligibility Hub"
 description: "Simultaneously building a product squad and a personalised credit commentary feature"
+introduction: >
+ In 2021 I moved to a new squad at TotallyMoney, named Mission Improve. We were tasked with “helping customers improve their financial situation and build financial momentum”.
+ 
+ 
+ I worked very closely with the product manager, mid-weight product designer, and developers to set the tone for our new team, interpret our remit from the company, and take our first steps towards the company’s long term vision.
+ 
+ 
+ We made a long-overdue feature that I’m really proud of. The Eligibility Hub highlights issues with your credit that are holding you back. Crucially, it doesn’t stop there, suggesting actions you can take to make a difference.
+ 
+ 
+ Perhaps more importantly for me, we also designed our new team to represent our values and work the way we wanted.
 ---
-
-In 2021 I moved to a new squad at TotallyMoney, named Mission Improve. We were tasked with “helping customers improve their financial situation and build financial momentum”.
-
-I worked very closely with the product manager, mid-weight product designer, and developers to set the tone for our new team, interpret our remit from the company, and take our first steps towards the company’s long term vision.
-
-We made a long-overdue feature that I’m really proud of. The Eligibility Hub highlights issues with your credit that are holding you back. Crucially, it doesn’t stop there, suggesting actions you can take to make a difference.
-
-Perhaps more importantly for me, we also designed our new team to represent our values and work the way we wanted.
 
 ## A new mission
 

@@ -5,7 +5,7 @@ date: 2016-03-03 12:00:00 +0100
 categories: 
 ---
 
-_This article was [originally published on the AnalogFolk blog](http://analogfolk.com/news/dark-patterns)._
+<p class="note">This article was <a href="https://web.archive.org/web/20210307142520/https://analogfolk.com/news/dark-patterns" target="_blank">originally published on the AnalogFolk blog</a>.</p>
 
 Last year [LinkedIn paid $13 million to settle a lawsuit](http://fortune.com/2015/10/05/linkedin-class-action/) which accused them of spamming the contacts of their users. The recipients didn’t even have a profile on the site. How could that be? Starting in the sign up form, [LinkedIn used a variety of techniques](https://medium.com/@danrschlosser/linkedin-dark-patterns-3ae726fe1462#.732fs3s3y) to convince users to give access to their contacts’ email addresses, ostensibly to suggest connections with people they knew. By including contacts who didn’t yet have a profile in the list of suggested connections, LinkedIn sneakily got permission to send those irritating email invitations. Misdirection kept most users from knowing what they allowed to happen.
 
