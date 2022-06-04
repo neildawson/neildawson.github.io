@@ -1,5 +1,5 @@
 ---
-title: "Live Alerts"
+title: "Live Credit Report Alerts"
 description: "Bending a commercial tool into meaningful customer notifications that outperformed our best campaigns"
 introduction: >
  The credit reporting system is designed for lenders, not consumers. These days we can all access our reports, but it’s usually still difficult to make sense of all the data. 

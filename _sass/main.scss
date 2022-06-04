@@ -10,8 +10,8 @@ img {
   width: 100%;
 }
 
-.pagenav {
-  margin-top: 50px;
+section.pagenav {
+  margin-top: 100px;
 }
 
 .grid {
@@ -196,6 +196,7 @@ ul {
   list-style: none; /* Remove default bullets */
   margin-top: 0.7em;
   margin-bottom: 0;
+  padding-left: 30px;
 }
 
 ul li::before {
@@ -205,6 +206,10 @@ ul li::before {
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 1em; /* Also needed for space (tweak if needed) */
   margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+ul li ul {
+  padding-left: 20px;
 }
 
 ul li ul li::before {
@@ -485,6 +490,7 @@ nav :nth-child(6) {
 -------------------------------------------------- */
 
 .hero {
+  margin-top: 0.6em;
   margin-bottom: 1.2em;
 }
 

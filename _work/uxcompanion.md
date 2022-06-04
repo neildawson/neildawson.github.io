@@ -25,8 +25,7 @@ I drew up a list of topics from classic design principles like the 80/20 rule, w
 
 Our target audience was digital creatives looking to expand their knowledge. We also sought to give clients who had commissioned digital work a basis for understanding the industry and its practices.
 
-![Three views: the article index, description, and resources]({{ "/assets/uxcompanion/screens.jpg" | absolute_url }})
-<span class="post-meta">Three views: the article index, description, and resources</span>
+{% include figure.html file="/assets/uxcompanion/screens.jpg" caption="Three views: the article index, description, and resources" %}
 
 Topics can be browsed from the searchable index view, and each topic has a one-line summary, a short description, and a few resources for further reading. We hand-picked every resource to ensure a range of mediums and complexity.
 

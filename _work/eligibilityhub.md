@@ -1,6 +1,6 @@
 ---
-title: "Eligibility Hub"
-description: "Simultaneously building a product squad and a personalised credit commentary feature"
+title: "Eligibility Doctor"
+description: "Simultaneously building a product squad and a personalised credit building feature"
 introduction: >
  In 2021 I moved to a new squad at TotallyMoney, named Mission Improve. We were tasked with “helping customers improve their financial situation and build financial momentum”.
  
