@@ -61,7 +61,7 @@ I integrated the two-step log in process into a <mark>responsive Axure RP protot
 
 Working closely with the visual designer, we struck a balance between the bold, fun Nando’s branding and the clarity required for a smooth customer experience.
 
-{% include figure.html file="/assets/nandos/login-new.png" caption="On the left, the combined registration and sign in form as it appears on arrival. On the right, the form has recognising the email address of a registered user, so shows the password field." alt="Recognising a registered user" %}
+{% include figure.html file="/assets/nandos/login-new.png" caption="**Left**: the combined registration and sign in form as it appears on arrival. **Right**: the form has recognising the email address of a registered user, so shows the password field." alt="Recognising a registered user" %}
 
 As we prepared for launch, I worked with the analytics team to ensure their <mark>tracking specification</mark> included events and measures we could use later to assess performance and target areas for improvement.
 
@@ -77,11 +77,11 @@ The old collection site had two search fields: search by your location, or searc
 
 The first field was actually a lot smarter than postcode search. You can search by almost anything: postcode, house name, the nearest pub… so we removed the second field. It’s Google search, but for chicken.
 
-{% include figure.html file="/assets/nandos/search.png" caption="On the left, the two search fields on the old site. On the right, the new site where removed an unnecessary field and made the flexibility of the other apparent." alt="Simplifying the restaurant search by removing a field" %}
+{% include figure.html file="/assets/nandos/search.png" caption="**Left**: the two search fields on the old site. **Right**: the new site where we removed an unnecessary field and made the flexibility of the other apparent." alt="Simplifying the restaurant search by removing a field" %}
 
 ### Decisions, decisions
 
-At every step we took care to emphasise the key decision required of the user. Search results show the closest collection and delivery options side-by-side if they're not from the same restaurant. We lead with collection as it saves delivery costs for both parties, and the customer gets their food quicker.
+<mark>At every step we took care to emphasise the key decision required</mark> of the user. Search results show the closest collection and delivery options side-by-side if they're not from the same restaurant. We lead with collection as it saves delivery costs for both parties, and the customer gets their food quicker.
 
 If there are other collection restaurants nearby we offer them below. These are always stacked in a vertical list and have less contrast to keep focus on the suggested restaurants.
 
@@ -89,12 +89,12 @@ If there are other collection restaurants nearby we offer them below. These are 
 
 Search results on the collection site showed a lot of information about the selected restaurant. This complicated the view and eclipsed the alternative restaurant options below.
 
-We condensed restaurant details into an expandable, reusable module. Only the most critical details are always visible, relevant information is available in the expanded area, and we link to the restaurant’s full details page for irrelevant information.
+<mark>We condensed restaurant details into an expandable, reusable module</mark>. Only the most critical details are always visible, relevant information is available in the expanded area, and we link to the restaurant’s full details page for irrelevant information.
 
-{% include figure.html file="/assets/nandos/restaurants.png" caption="Left: restaurant search results on the old collection site. Right: the new restaurant details module shows only the most important details – name, distance, and delivery time – and can expand to show extra information." alt="Simplifying search results and showing only the most important details" %}
+{% include figure.html file="/assets/nandos/restaurants.png" caption="**Left**: restaurant search results on the old collection site. **Right**: the new restaurant details module shows only the most important details – name, distance, and delivery time – and can expand to show extra information." alt="Simplifying search results and showing only the most important details" %}
 
 ### Speed run
 
 At every step we looked for ways to speed up the process for returning users. When you return, you can jump straight to the menu with your last restaurant and fulfilment method selected.
 
-From the menu you can quickly add one of your recent orders to the basket, and use the tools there to tweak it before check out. This replaced an under-utilised favourites system.
+From the menu you can quickly add one of your recent orders to the basket, and use the tools there to tweak it before check out. <mark>This replaced an under-utilised favourites system</mark>.

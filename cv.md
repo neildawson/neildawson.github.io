@@ -32,7 +32,7 @@ Supporting and guiding junior designers
 ## Experience
 
 ### Lead Product Designer, TotallyMoney
-July 2019 – January 2022
+July 2019 - January 2022
 
 - <mark>Led design and product thinking</mark> across multiple product squads.
 - Coached and oversaw the work of other product designers.
@@ -45,7 +45,7 @@ July 2019 – January 2022
 - <mark>Documentation champion and nerd</mark>, maintaining an industry glossary, design project databases, and multiple document templates.
 
 ### Senior Experience Designer, AnalogFolk
-September 2015 – September 2018
+September 2015 - September 2018
 
 - Led feature planning, prototyping, and guerrilla testing of Nando's combined delivery and collection service.
 - Led research, user testing with children, and design for Sainsbury's [*Story Studio*]({% link _work/storystudio.md %}), a stop-motion movie app for iOS and Android <mark>used to create tens of thousands of movies on Christmas Day</mark>.
@@ -58,7 +58,7 @@ September 2015 – September 2018
 - Led a one day <mark>rapid/paper prototyping workshop</mark> for staff at AXA PPP Healthcare.
 
 ### <strike>Junior</strike> <strike>Mid-weight</strike> Senior User Experience Designer, Cyber-Duck
-June 2011 – August 2015
+June 2011 - August 2015
 
 - Project manager and UX lead on more than 15 projects.
 - Led the design and usability testing of [*mydlc*](https://web.archive.org/web/20150718071422/http://www.mydlc.co.uk/), a debt management system, resulting in shorter payment plan setup times, more than <mark>double the turnover</mark> from the previous solution, and a UX UK award.

@@ -18,6 +18,8 @@ collections:
       - mariokart.md
       - dune.md
       - scglossary.md
+  posts:
+    permalink: /blog/:title.html
 
 defaults:
   - scope:

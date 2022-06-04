@@ -5,9 +5,9 @@ description: "Documenting a three week coach tour of Iran with a dozen Kiwi pens
 
 In 2013 I took 10,000 photographs on a tour of Iran.
 
-Since then I've sorted through all the photos, dug out the itinerary and my daily emails to my parents, and scanned all the paraphernalia I brought home, but I've not shaped it into something I can share yet.
+In the time since, I've edited some photos, sorted others, filed my itinerary and emails to my parents, and scanned all the paraphernalia I brought home… but I've not shaped it into something I can share yet.
 
-As next year marks a decade(!) since the trip, I'd like to condense it all into a format – mostly likely a book – I can share with my friends and family.
+As next year marks a decade(!) since the trip, I'd like to condense it all into a format, likely a book, to share with my friends and family.
 
 Here are a few of my favourite photos in the meantime:
 
