@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<article class="grid">
+
+	<p id="back"><a href="/../{{ page.collection }}" >&#8619; {{ page.collection | capitalize }}</a></p>
+	<h1>{{ page.title }}</h1>
+	<p class="description">{{ page.description }}</p>
+	<img class="full-width hero" src="/assets/{{ page.slug }}/hero.jpg">
+
+	{{ page.introduction | markdownify}}
+
+	{% if page.responsibilities %}
+		<aside class="details">
+			<figure>
+				<figcaption>Responsibilities</figcaption>
+					{% for line in page.responsibilities %}
+						{{ line | prepend: "- " | markdownify }}
+					{% endfor %}
+			</figure>
+			<figure>
+				<figcaption>Results</figcaption>
+					{% for line in page.results %}
+						{{ line | prepend: "- " | markdownify }}
+					{% endfor %}
+			</figure>
+		</aside>
+	{% endif %}
+	{{ content }}
+</article>
+
+<section class="pagenav grid">
+  {% if page.previous.url %}
+    <a class="prev card {% unless page.next.url %}lonely{% endunless %}" href="{{page.previous.url}}">
+	  	<p>&#8592; Previous project</p>
+			<img src="/assets/{{ page.previous.slug }}/hero.jpg">
+			<span class="title">{{ page.previous.title }}</span>
+			<p>{{ page.previous.description }}</p>
+		</a>
+	{% else %}
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next card {% unless page.previous.url %}lonely{% endunless %}" href="{{page.next.url}}">
+	    <p>Next project &#8594;</p>
+	    <img src="/assets/{{ page.next.slug }}/hero.jpg">
+			<span class="title">{{ page.next.title }}</span>
+			<p>{{ page.next.description }}</p>
+		</a>
+  {% endif %}
+</section>

@@ -1,19 +1,25 @@
 ---
-layout: page
-title: "About"
-permalink: /about/
+title: About
+permalink: /about
 ---
 
-![It's me]({{ "/assets/about/neil.jpg" | absolute_url }})
+<section class="grid" id="about">
 
-Professional designer
+<h1>About</h1>
 
-Intermediate snowboarder
+<p class="description">Confident snowboarder, occasional photographer, dedicated gamer, mediocre guitarist</p>
 
-Amateur photographer
+<img src="/assets/about/neil.jpg" class="full-width hero">
 
-Enthusiastic gamer
+<p>Very important facts:</p>
 
-Mediocre guitarist
+<ul>
+	<li>As you may be able to tell, I find ordering, categorising, and recording things very satisfying.</li>
+	<li>I call myself <em>TerminalVeracity</em> online because it sounds like an <a href="https://theculture.fandom.com/wiki/List_of_spacecraft#Novels" target="_blank">Iain M. Banks spaceship</a>, and because I can't lie to save myself.</li>
+	<!-- li>When I look straight up without moving my head, my eyes go squint.</li -->
+	<li>I had a letter read out on the final episode of <a href="https://en.wikipedia.org/wiki/Live_%26_Kicking" target="_blank"><em>Live & Kicking</em></a> hosted by Zoe Ball and Jamie Theakston.</li>
+</ul>
 
-Find me on [Instagram](https://www.instagram.com/terminalveracity/), [Last.fm](https://www.last.fm/user/deepthought), and [Twitter](http://www.twitter.com/neildawson)
+<p>Stalk further on <a href="https://www.instagram.com/terminalveracity/" target="_blank">Instagram</a>, <a href="https://www.last.fm/user/deepthought" target="_blank">Last.fm</a>, and <a href="https://twitter.com/neildawson" target="_blank">Twitter</a>.</p>
+
+</section>

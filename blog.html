@@ -1,0 +1,11 @@
+---
+title: Blog
+permalink: /blog
+---
+
+<div class="posts grid">
+  <h1>Blog</h1>
+  {% for post in site.posts %}
+    {% include blogpost.html %}
+  {% endfor %}
+</div>

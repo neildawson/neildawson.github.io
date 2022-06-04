@@ -1,12 +1,7 @@
 ---
-layout: page
 title: "Dark Times for Dark Patterns"
-short_description: "Identifying and replacing manipulative design practices at South by South West 2016"
+description: "Talking downsides and alternatives to manipulative design practices at SXSW in Texas"
 ---
-
-# {{ page.short_description }}
-
-![Dark Times for Dark Patterns]({{ "/assets/darkpatterns/hero.png" | absolute_url }})
 
 When my colleague Cristina and I discovered our mutual distaste for misleading design patterns, and curiosity for finding alternatives, we decided to pitch the idea as a talk at South by South West Interactive 2016.
 
@@ -18,5 +13,4 @@ We refined our talk by presenting to colleagues and meetups, and I presented a c
 
 Check out [my writeup on identifying dark patterns](https://analogfolk.com/news/dark-patterns), [the slide deck](https://www.slideshare.net/criviga/dark-times-for-dark-patterns-59440001), an [audio recording from the SXSW talk](https://soundcloud.com/officialsxsw/dark-times-for-dark-patterns-ethical-alternatives-sxsw-interactive-2016/), or a full [video of the first public showing at Outreach Digital meetup](https://www.youtube.com/watch?v=azgFV34qQ_I).
 
-![Sketch notes from a SXSW audience member]({{ "/assets/darkpatterns/sketchnotes.JPG" | absolute_url }})
-<span class="post-meta">[Sketch notes by @honoria](https://twitter.com/honoria/status/708372819915120640), a SXSW audience member</span>
+{% include figure.html file="/assets/darkpatterns/sketchnotes.JPG" caption="[Sketch notes by @honoria](https://twitter.com/honoria/status/708372819915120640), a SXSW audience member" alt="Sketch notes from a SXSW audience member" %}
