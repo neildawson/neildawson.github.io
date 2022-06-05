@@ -1,5 +1,5 @@
 ---
-title: "Miniature painting"
+title: "Miniature Painting"
 date: 2022-03-01
 description: "Building tiny armies"
 ---
