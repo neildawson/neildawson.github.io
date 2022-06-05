@@ -1,6 +1,7 @@
 ---
-title: "Eligibility Doctor"
-description: "Simultaneously building a product squad and a personalised credit building feature"
+title: "Credit Health Check"
+date: 2022-01-01
+description: "Simultaneously building a product squad and our customers' eligibility for credit"
 introduction: >
  In 2021 I moved to a new squad at TotallyMoney, named Mission Improve. We were tasked with “helping customers improve their financial situation and build financial momentum”.
  
@@ -8,7 +9,7 @@ introduction: >
  I worked very closely with the product manager, mid-weight product designer, and developers to set the tone for our new team, interpret our remit from the company, and take our first steps towards the company’s long term vision.
  
  
- We made a long-overdue feature that I’m really proud of. The Eligibility Hub highlights issues with your credit that are holding you back. Crucially, it doesn’t stop there, suggesting actions you can take to make a difference.
+ We made a long-overdue feature that I’m really proud of. The credit health check highlights issues with your credit that are holding you back. The crucial difference to the competition is it doesn’t stop there, suggesting actions you can take to make a difference.
  
  
  Perhaps more importantly for me, we also designed our new team to represent our values and work the way we wanted.
@@ -79,9 +80,9 @@ I handled one of the factors, missed payments, from end to end. I conducted desk
 
 ## Results and reflection
 
-![The eligibility hub in motion, showing personalised breakdown of factors holding you back from getting the best offers]({{ "/assets/eligibilityhub/dynamic-actions.gif" | absolute_url }})
+![The credit health check in motion, showing personalised breakdown of factors holding you back from getting the best offers]({{ "/assets/eligibilityhub/dynamic-actions.gif" | absolute_url }})
 
-The eligibility hub, including the reminder system to combat missed payments, was still in development when I departed TotallyMoney. The hub has now launched and I’m keen to hear how it performed against our engagement goals. I’ll update this case study when I do!
+The credit health check, including the reminder system to combat missed payments, was still in development when I departed TotallyMoney. The hub has now launched and I’m keen to hear how it performed against our engagement goals. I’ll update this case study when I do!
 
 Defining our ways of working together with the squad was one of my most rewarding experiences at TotallyMoney. I’m particularly pleased with the triad Tom, Lorraine, and I established. It’s an effective, reassuring structure that I’d like to replicate in future, ideally with a dev in the mix too.
 

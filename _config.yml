@@ -1,23 +1,8 @@
 collections:
   work:
     output: true
-    order:
-      - eligibilityhub.md
-      - weeklyinterviews.md
-      - livealerts.md
-      - nandos.md
-      - storystudio.md
-      - darkpatterns.md
-      - uxcompanion.md
   play:
     output: true
-    order:
-      - yearbooks.md
-      - minipainting.md
-      - iran.md
-      - mariokart.md
-      - dune.md
-      - scglossary.md
   posts:
     permalink: /blog/:title.html
 

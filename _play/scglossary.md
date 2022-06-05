@@ -1,5 +1,6 @@
 ---
 title: "Star Citizen Glossary"
+date: 2014-06-08
 description: "A responsive glossary in HTML and CSS"
 ---
 

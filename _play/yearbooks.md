@@ -1,5 +1,6 @@
 ---
 title: "Yearbooks"
+date: 2022-04-01
 description: "Annual photo diaries"
 ---
 

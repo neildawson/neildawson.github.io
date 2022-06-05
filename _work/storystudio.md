@@ -1,5 +1,6 @@
 ---
 title: "Sainsbury's Story Studio"
+date: 2016-12-01
 description: "A best-in-class kids stop-motion movie app for the supermarket's annual Christmas campaign"
 introduction: >
  Every year, UK brands compete to create the most memorable Christmas ad. In 2016 Sainsbury's pulled out all the stops for [*The Greatest Gift*](https://www.youtube.com/watch?v=bq5SGSCZe4E): three and a half minutes of stop-motion animation and a soundtrack by [Bret McKenzie](https://en.wikipedia.org/wiki/Bret_McKenzie) and [James Corden](https://en.wikipedia.org/wiki/James_Corden).
@@ -15,6 +16,7 @@ responsibilities:
   - "Development liaison"
 results:
   - "Over 170,000 movies created on Christmas day"
+  - "Average session time of 15 minutes"
   - "[Epica Silver Award](http://winners.epica-awards.com/2017/winner/68-01579-DIG/analogfolk/story-studio)"
 ---
 

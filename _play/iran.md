@@ -1,5 +1,6 @@
 ---
 title: "Three Weeks in Iran"
+date: 2019-01-01
 description: "Documenting a three week coach tour of Iran with a dozen Kiwi pensioners"
 ---
 

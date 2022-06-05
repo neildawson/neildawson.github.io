@@ -1,5 +1,6 @@
 ---
 title: "Get a Nando's"
+date: 2017-01-01
 description: "Merging distinct delivery and collection ordering systems, boosting conversions by over 40%"
 introduction: >
  In late 2017 Nando’s began rolling out a home delivery service to their restaurants.

@@ -1,5 +1,6 @@
 ---
 title: "Dark Times for Dark Patterns"
+date: 2016-03-11
 description: "Talking downsides and alternatives to manipulative design practices at SXSW in Texas"
 ---
 

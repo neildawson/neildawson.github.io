@@ -1,5 +1,6 @@
 ---
 title: "Mario Kart 8 Controls"
+date: 2018-04-05
 description: "Quick reference control diagram for new players"
 ---
 

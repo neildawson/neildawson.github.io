@@ -12,11 +12,13 @@ title: Experience Designer in London
 
   <h2>Latest projects</h2>
 
-  {% for project in site.work limit:2 %}
+  {% assign work = site.work | sort: 'date' | reverse %}
+  {% for project in work limit:2 %}
     {% include card.html %}
   {% endfor %}
 
-  {% for project in site.play limit: 2 %}
+  {% assign play = site.play | sort: 'date' | reverse %}
+  {% for project in play limit: 2 %}
     {% include card.html %}
   {% endfor %}
 

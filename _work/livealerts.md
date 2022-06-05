@@ -1,5 +1,6 @@
 ---
 title: "Live Credit Report Alerts"
+date: 2021-04-01
 description: "Bending a commercial tool into meaningful customer notifications that outperformed our best campaigns"
 introduction: >
  The credit reporting system is designed for lenders, not consumers. These days we can all access our reports, but it’s usually still difficult to make sense of all the data. 
@@ -8,7 +9,7 @@ introduction: >
  When TotallyMoney gained access to a new daily feed of significant credit report changes, we set out to bend this tool for lenders into a customer-centric service, while boosting app engagement.
  
  
- Timely messages to customers about meaningful changes in their credit profile easily outperformed our typical reactive emails, and made a great test bed for our first push notifications.
+ Timely emails to customers about meaningful changes in their credit profile easily outperformed our typical reactive emails, and made a great test bed for our first push notifications.
 responsibilities:
   - "Analysed and documented the API"
   - "Jointly selected our first alert"

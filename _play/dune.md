@@ -1,5 +1,6 @@
 ---
 title: "Litany Against Fear"
+date: 2018-09-10
 description: "A single-colour screen print based on Frank Herbert’s 'Dune'"
 ---
 

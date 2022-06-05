@@ -5,7 +5,7 @@ permalink: /work
 
 <section class="grid" id="work">
   <h1>Work</h1>
-  {% for project in site.work %}
+  {% for project in site.work reversed %}
     {% include card.html %}
   {% endfor %}
 </section>

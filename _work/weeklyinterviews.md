@@ -1,5 +1,6 @@
 ---
 title: "Weekly Customer Interviews"
+date: 2021-11-01
 description: "Establishing a continuous, lightweight research habit to broaden our customer knowledge"
 introduction: >
  At TotallyMoney we often ran usability tests and interviews with a project focus, but rarely conducted broader research to learn more about our customers and find new opportunities.
@@ -27,7 +28,7 @@ The seed was planted when I saw Teresa Torres talking about continuous discovery
 
 I was particularly taken with her concept of collecting “opportunities” – needs, pain points, and desires – as a basis for planning product work.
 
-Not long afterwards, I facilitated a purpose, vision, and principles workshop with my new product squad. A dominant theme was seeking customer input more often, so <mark>we made a (bold!) commitment to listen to our customers every week</mark> 
+Not long afterwards, I facilitated a purpose, vision, and principles workshop with my new product squad. A dominant theme was seeking customer input more often, so <mark>we made a (bold!) commitment to listen to our customers every week</mark>.
 
 ### Goals
 
