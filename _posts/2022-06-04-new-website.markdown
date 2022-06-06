@@ -17,7 +17,7 @@ With this project I've refreshed my memory and tried new things, like <a href="h
 Jekyll let me make my website all the things a website should be:
 
 - **Lightweight**\
-As a static site, it loads nearly instantly doesn't get choppy on older devices.
+As a static site, it loads nearly instantly and doesn't get choppy on older devices.
 - **Responsive**\
 With complete control over styling, breakpoints are defined by the layout rather than a standard set of device widths, and it looks great at every size.
 - **Accessible**\
