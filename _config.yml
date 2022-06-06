@@ -4,7 +4,7 @@ collections:
   play:
     output: true
   posts:
-    permalink: /blog/:title.html
+    permalink: /blog/:title
 
 defaults:
   - scope:
