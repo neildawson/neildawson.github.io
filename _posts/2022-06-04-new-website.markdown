@@ -50,6 +50,6 @@ I've tried to make my personality show through, and I erred on the side of showi
 
 I hope you'll agree I did what I set out to do.  
 
-All the code is available in <a hreh="https://github.com/neildawson/neildawson.github.io" target="_blank">the GitHub repo</a>, and I'm still working on it, so if you spot anything janky please let me know. See [About]({% link about.md %}) and [CV]({% link cv.md %}) for social links, or [email me](mailto:mail@neildawson.co).
+All the code is available in <a href="https://github.com/neildawson/neildawson.github.io" target="_blank">the GitHub repo</a>, and I'm still working on it, so if you spot anything janky please let me know. See [About]({% link about.md %}) and [CV]({% link cv.md %}) for social links, or [email me](mailto:mail@neildawson.co).
 
 My thanks to lots of friends for proofreading and troubleshooting, and <mark>thank you for reading!</mark>
