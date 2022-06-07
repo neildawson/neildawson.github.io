@@ -12,7 +12,7 @@ layout: article
 
 With a background in both computing and design, I work closely with tech, product, and other stakeholders to create successful products.
 
-For professional enquiries, contact me on [LinkedIn](http://www.linkedin.com/in/neildawson).
+For professional enquiries, you can contact me on [LinkedIn](http://www.linkedin.com/in/neildawson) and download [my abridged CV](Neil%20Dawson%20CV.pdf) as a PDF.
 
 ## Skills
 
@@ -25,7 +25,7 @@ Sketching, Figma, Axure RP, HTML & CSS
 - **Experience design**  
 Information architecture, UX writing, interaction design, and a wee bit of UI design
 - **Communication and storytelling**  
-Writing, speaking, facilitating
+Writing, public speaking, facilitating
 - **Mentoring**  
 Supporting and guiding junior designers
 
@@ -47,6 +47,7 @@ July 2019 - January 2022
 ### Senior Experience Designer, AnalogFolk
 September 2015 - September 2018
 
+- Worked in close-knit squads with tech, production, data, the clients themselves, and other disciplines.
 - Led feature planning, prototyping, and guerrilla testing of [*Nando's* delivery and collection service]({% link _work/nandos.md %}) , boosting conversions by over 40%.
 - Multiple projects for <mark>HSBC</mark>:
 	- Redesigned and oversaw user testing of key journeys in the new <mark>customer banking app</mark>, from flows to pixel-perfect prototypes.
@@ -57,10 +58,11 @@ September 2015 - September 2018
 - Worked closely with Dulux to improve key journeys in their custom paint ordering service, [*Amazing Space Paint*](https://web.archive.org/web/20200920052116/https://www.analogfolk.com/work/amazing-space-paint), based on detailed analytics and focus group findings.
 - Led <mark>rapid prototyping training</mark> for staff at AXA PPP Healthcare.
 
-### Junior, Midweight, then Senior User Experience Designer, Cyber-Duck
+### Senior User Experience Designer, Cyber-Duck
 June 2011 - August 2015
 
-- Project manager and UX lead on more than 15 projects.
+- My first professional design role, where I progressed from Junior to Senior level.
+- UX designer and project manager on more than 15 client projects.
 - Led the design and usability testing of [*mydlc*](https://web.archive.org/web/20150718071422/http://www.mydlc.co.uk/), a debt management system, resulting in shorter payment plan setup times, more than <mark>double the turnover</mark> from the previous solution, and a UX UK award.
 - Led the redesign and usability testing of the application process for [*MYJAR*](https://myjar.com/), a short-term loan service, <mark>increasing customer satisfaction by 10%</mark>.
 - Carried out interviews, card sorting sessions, and consulting for Balfour Beatty Construction's *Playbook*, a process sharing platform, which was well received by users across the USA.

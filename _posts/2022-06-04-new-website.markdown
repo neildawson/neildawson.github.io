@@ -23,7 +23,7 @@ With complete control over styling, breakpoints are defined by the layout rather
 - **Accessible**\
 Good old semantic HTML.
 - **Maintainable**\
-The templating system separates content from code, so it's easy to update. With Github Pages there are no fees for hosting or WYSIWYG editors.
+The templating system separates content from code, so it's easy to update. With GitHub Pages there are no fees for hosting or WYSIWYG editors.
 
 I also plan to add progressive loading images, better link unfurling, and to further improve accessibility.
 
@@ -50,6 +50,6 @@ I've tried to make my personality show through, and I erred on the side of showi
 
 I hope you'll agree I did what I set out to do.  
 
-All the code is available in <a hreh="https://github.com/neildawson/neildawson.github.io" target="_blank">the github repo</a>, and I'm still working on it, so if you spot anything janky please let me know. See [About]({% link about.md %}) and [CV]({% link cv.md %}) for social links, or [email me](mailto:mail@neildawson.co).
+All the code is available in <a hreh="https://github.com/neildawson/neildawson.github.io" target="_blank">the GitHub repo</a>, and I'm still working on it, so if you spot anything janky please let me know. See [About]({% link about.md %}) and [CV]({% link cv.md %}) for social links, or [email me](mailto:mail@neildawson.co).
 
 My thanks to lots of friends for proofreading and troubleshooting, and <mark>thank you for reading!</mark>
