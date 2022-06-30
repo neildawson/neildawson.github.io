@@ -41,7 +41,7 @@ Our colleagues were always keen to join occasional workshops and interviews. To 
 - **Novel insights or evidence**\
 We had a recent study which gave us a good overview of customer issues. Our findings needed to expand on that, not just reinforce it.
 
-## Realisation
+## Launching and learning
 
 ### A recruitment trade-off
 

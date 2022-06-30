@@ -1,7 +1,7 @@
 ---
 title: "Credit Health Check"
 date: 2022-01-01
-description: "Simultaneously building a product squad and our customers' eligibility for credit"
+description: "Spurring 20% of monthly active users to take action to improve their credit"
 introduction: >
  In 2021 I moved to a new squad at TotallyMoney, named Mission Improve. We were tasked with “helping customers improve their financial situation and build financial momentum”.
  
@@ -9,81 +9,101 @@ introduction: >
  I worked very closely with the product manager, mid-weight product designer, and developers to set the tone for our new team, interpret our remit from the company, and take our first steps towards the company’s long term vision.
  
  
- We made a long-overdue feature that I’m really proud of. The credit health check highlights issues with your credit that are holding you back. The crucial difference to the competition is it doesn’t stop there, suggesting actions you can take to make a difference.
+ Our first initiative, the credit health check, highlights issues with your credit that are holding you back. The crucial difference to the competition is it suggests actions you can take to make a difference.
  
  
  Perhaps more importantly for me, we also designed our new team to represent our values and work the way we wanted.
+responsibilities:
+  - "Identifying opportunities and setting direction"
+  - "Overseeing a midweight designer"
+  - "Desk and competitor research"
+  - "Facilitating an ideation workshop"
+  - "Exploring feasibility with devs"
+  - "UX, UI, and concept testing for one area of the feature"
+results:
+  - "Over 60% of monthly active users (MAU) viewed a factor impacting their credit"
+  - "Over 20% of MAU took a suggested action to improve"
+  - "A well-received vision for our product, and purpose for our new team"
 ---
 
-## A new mission
+## Challenges
 
-### The business context: building momentum
+### Building engagement
 
-The business was on a big engagement drive, aiming to <mark>get more customers set up to access their credit report and regularly using our native app</mark>. With other teams dedicated to onboarding and retention, it was our job to build out some strong core functionality the other squads could leverage to accomplish their goals.
+The business focus was engagement, aiming to <mark>get more customers using their credit report and the native app</mark>. With other teams dedicated to onboarding and retention, we were to build core functionality to help people understand and act on their credit.
 
 Our CPO had recently set a future vision which foresaw a service that intelligently responds to a customer’s financial position. From this vision came the theme of our first major piece of work: “action plans”.
 
-### The product context: lots of numbers, not much guidance
+### Turning a report into a guide
 
-When customers came to us for their credit report we could show lots of data on their credit use, but not a lot of commentary or guidance to make it useful. Much of the really valuable knowledge was buried in FAQs, guides, or deep in the page hierarchy, and very little was personalised.
+I came from the squad responsible for our free credit report and had seen a theme across many studies: <mark>customers came to us for their credit score, but didn't know why it mattered, or how to improve it</mark>. We let them browse their data, but didn't offer a lot of guidance.
 
-I came from a squad solely focused on the credit report area of the service, so I was acutely aware of this gap. We knew from speaking to customers that <mark>people mostly came to us for their credit score, but it was unclear why the score matters, or how to improve it</mark> .
+The product manager (PM) and midweight designer (PD) had been talking to customers about TotallyMoney's other score, *Borrowing Power*, an indication of how many credit products you’re eligible for. They learned customers were unsure how to improve this score, too.
 
-My new teammates Tom and Lorraine (product manager and mid-weight designer, respectively) had been working on a similar problem. TotallyMoney had another score, Borrowing Power, an indication of how many credit offers you’re eligible for. Lorraine had conducted research which indicated customers were unsure how to improve this score, too.
+Many of the factors influencing the scores were shared, so <mark>we were in a great position to address the lack of an onward journey</mark> in both areas.
 
-There was a lot of overlap in the factors influencing both scores, so it was likely we could kill two birds with one stone. <mark>We were in a great position to address the lack of an onward journey</mark> in both areas.
+### Defining our new team’s purpose
 
-### Collectively defining our team’s purpose
-
-As a brand new squad with a fairly broad remit from the business, we needed to have a clear idea of what we stood for and what we were trying to achieve.
-
-Armed with a great framework from my colleague Dave, I facilitated workshops to collaboratively define our mission, our vision for the future, and principles to work by. Lorraine and I refined these into clear statements. For example, our mission:
+As a brand new squad with a broad remit from the business, we needed a shared purpose. <mark>I facilitated workshops</mark> to collaboratively define our mission, our vision for the future, and principles to work by. The PD and I refined these into clear statements. For example, our mission:
 
 > Everyone’s trying to get somewhere. We show people how far they’ve come, what to do next, and accompany them onward.
 
-
 <mark>By framing everything as a next step on a journey already underway, we hoped to diminish any sense of intimidation</mark>, motivating people to take action.
 
-## Our first project
+## Setting direction
 
-### Building a model to narrow our focus
+### Identifying opportunities and deciding where to start
 
-Lots of factors influence your credit score and your eligibility for a credit product. Some of the most impactful are your total credit limit, how much of your limit you use, and missing or defaulting on repayments.
+Lots of factors influence your credit score and your eligibility for a credit product, like how much of your credit limit you use, and making (or missing) repayments. Consequently, there are many actions you can take to improve your scores, so we needed to narrow our focus.
 
-Consequently, there are many actions you can take to improve your scores, so we needed to narrow our focus. <mark>Tom and I built a model of all the factors influencing both scores</mark>. We gathered data points and other considerations, including:
+<mark>The PM and I built a model of all the factors influencing both scores</mark>. We gathered data points and other considerations, including:
 
 - **Impact**, or how much weight each factor carried in each score calculation (sourced from supplier documentation and a study by our data science team)
 - **Quantity** of TotallyMoney customers currently affected
 - **Quality** of the existing experience in our product (if any!)
 
-Now we could see which factors were common to both scores and assess their importance, <mark>we prioritised the list to determine where to start</mark>. We settled on a short list of impactful factors we’d explain to customers in an initial release, planning to follow up with more factors later.
+Now we could see which factors were common to both scores and assess their importance, <mark>we prioritised the list to determine where to start</mark>. We settled on a short list of impactful factors we’d explain to customers in the initial release, and defined rules of thumb for optimal and suboptimal behaviour in each.
 
 ### Proposing a new framework for our product: Atomic Actions
 
-The product squads had been split between two tribes for the past few years, one focusing on product comparison and monetisation, one on the free credit report. This split was evident in the product, with not much connecting the two areas. With the retirement of those tribes, we wanted to eliminate those gaps in the product, too.
+Many factors (some of which I mentioned in the previous section) are foundational financial concepts, relevant to lots of journeys. For example, addressing missed payments is also helpful for people paying down debt, managing their spending, getting a mortgage, and so on.
 
-<mark>I advocated for the creation of an extendable, modular system</mark> for discussing these factors, rather than building unique solutions for each. This would allow us to optimise effort by building on past work, and hopefully prevent older work from falling behind as shared templates were updated.
+<mark>I advocated for the creation of a modular system</mark> for factors. This would allow us to reuse our work in other areas in the future, and keep a consistent experience between factors.
 
-It wasn’t just about templates and components, though. Many factors (some of which I mentioned in the previous section) are foundational financial concepts, referenced often. <mark>The concepts themselves should be able to slot in to lots of journeys</mark>, anywhere in the product. For example, talking to someone about missed payments is relevant for people trying to improve their score, overcome debt, prepare for buying a home, and so on.
+I called this proposal “Atomic Actions”, pinching the “atomic” concept from [Brad Frost’s Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/). <mark>This became a guiding principle for the project</mark>, and it was received enthusiastically when I presented it in a company-wide meeting.
 
-I called this proposal “Atomic Actions”, pinching the “atomic” concept from [Brad Frost’s Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/). Mission Improve were on board immediately, and I received enthusiastic feedback when I presented it to the whole company. <mark>This became a key guiding force in the project</mark>.
+## Design
 
-### Sharing work between two designers and a PM
+### Sharing work with another designer
 
-Tom, Lorraine, and I operated as a triad, making key decisions together, then distributing work amongst ourselves to play to our strengths and keep up momentum.
+The PM, PD and I operated as a triad, making key decisions together, then distributing work amongst ourselves to play to our strengths and keep up momentum.
 
-Lorraine was responsible for most of the journey planning, concepting, testing, and design for the hub and most of our first actions. I supported and guided her where needed, which I found really rewarding.
+In addition to the strategic work described above, I handled the missed payments factor from end to end:
+- Desk and analogous research
+- User journey map
+- Facilitating an ideation workshop
+- Ideating and prototyping solutions in Figma
+- Concept testing a contentious idea (ask me about it!)
+- Constructing the UI with our component library
 
-Tom and I worked to create rules of thumb for what determines optimal and suboptimal behaviour for each factor. Lorraine and I then worked closely with the copy team to express these concepts clearly and sympathetically.
+I supported and guided the PD where needed, which I found really rewarding. She was responsible for most of the UX of the hub itself. In some areas we worked together:
 
-I handled one of the factors, missed payments, from end to end. I conducted desk research, analogous research, held an ideation workshop, concepted, then proposed a few possible solutions. I enjoyed working closely with Craig, one of our front-end devs, who carried out a few quick “spikes” to assess the technical feasibility of each solution. <mark>We settled on a simple reminder system we could build quickly to validate the concept</mark>, piggybacking on iOS and Android calendar functionality to get some features for free.
+- Exploring entry points for the journey
+- How to prioritise and label factors
+- Writing clear and sympathetic descriptions, in collaboration with the copy team
+
+### The first missed payments action
+
+I worked closely with one of our front-end devs, who carried out a few quick “spikes” to assess the technical feasibility of each solution. <mark>We settled on a simple reminder system we could build quickly to validate the concept</mark>, piggybacking on iOS and Android calendar functionality to get some features for free.
 
 ## Results and reflection
 
 ![The credit health check in motion, showing personalised breakdown of factors holding you back from getting the best offers]({{ "/assets/eligibilityhub/dynamic-actions.gif" | absolute_url }})
 
-The credit health check, including the reminder system to combat missed payments, was still in development when I departed TotallyMoney. The hub has now launched and I’m keen to hear how it performed against our engagement goals. I’ll update this case study when I do!
+The credit health check launched in January 2022. In its first 6 months over 60% of monthly active users (MAU) viewed a factor impacting their credit, and <mark>over 20% of MAU took a suggested action</mark>. The missed payments factor was the most interacted with. As a bonus, rates of customers reporting errors in their credit report rose noticeably.
 
-Defining our ways of working together with the squad was one of my most rewarding experiences at TotallyMoney. I’m particularly pleased with the triad Tom, Lorraine, and I established. It’s an effective, reassuring structure that I’d like to replicate in future, ideally with a dev in the mix too.
+After my departure, Mission Improve dangled this carrot in front of customers through emails, push notifications, and additional entry points. <mark>It has become a primary growth driver for the product</mark>.
 
-Looking back, there was a key point where we took stock of all the workstreams for this project and divided them amongst ourselves and a few other contributors. Before, Lorraine had been managing this mostly on her own. On reflection I see that this is just the kind of stuff I struggled with as a junior and mid-weight, so in future I’d do this much sooner, if not from the outset, to bring clarity and confidence, and improve pace.
+Defining our ways of working together with the squad was one of my most rewarding experiences at TotallyMoney. I’m particularly pleased with the triad the PM, PD, and I established. It’s an effective, reassuring structure that I’d like to replicate in future, ideally with a dev in the mix too.
+
+Looking back, there was a key point where we took stock of all the workstreams for this project and divided them amongst ourselves and a few other contributors. Before, the PD had been managing this mostly on her own. On reflection I see that this is just the kind of stuff I struggled with as a junior and mid-weight, so in future I’d do this much sooner, if not from the outset, to bring clarity and confidence, and improve pace.

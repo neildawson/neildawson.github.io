@@ -21,7 +21,7 @@ Identifying opportunities, interpreting business goals, working in tandem with p
 - **Research**  
 Planning, facilitating, and analysing, particularly for evaluative studies
 - **Concepting and prototyping**  
-Sketching, Figma, Axure RP, HTML & CSS
+Ideation, sketching, Figma, Axure RP, HTML & CSS
 - **Experience design**  
 Information architecture, UX writing, interaction design, and a wee bit of UI design
 - **Communication and storytelling**  
