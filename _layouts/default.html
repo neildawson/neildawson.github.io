@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} &middot; Neil Dawson</title>
     {% seo title=false %}
+    {% if page.collection == 'work' or 'play' %}
+      <meta property="og:image" content="/assets/{{ page.slug }}/hero.jpg">
+      <meta property="twitter:image" content="/assets/{{ page.slug }}/hero.jpg">
+    {% endif %}
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
