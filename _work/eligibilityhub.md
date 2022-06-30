@@ -1,7 +1,7 @@
 ---
 title: "Credit Health Check"
 date: 2022-01-01
-description: "Spurring 20% of monthly active users to take action to improve their credit"
+description: "Spurring 20% of monthly active users to take action on their credit, while shaping the purpose of a new product squad"
 introduction: >
  In 2021 I moved to a new squad at TotallyMoney, named Mission Improve. We were tasked with “helping customers improve their financial situation and build financial momentum”.
  
