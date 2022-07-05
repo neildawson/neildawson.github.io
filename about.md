@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: /about
+image: /assets/about/neil.jpg
 ---
 
 <section class="grid" id="about">

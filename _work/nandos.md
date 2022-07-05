@@ -62,7 +62,7 @@ I integrated the two-step log in process into a <mark>responsive Axure RP protot
 
 Working closely with the visual designer, we struck a balance between the bold, fun Nando’s branding and the clarity required for a smooth customer experience.
 
-{% include figure.html file="/assets/nandos/login-new.png" caption="**Left**: the combined registration and sign in form as it appears on arrival. **Right**: the form has recognising the email address of a registered user, so shows the password field." alt="Recognising a registered user" %}
+{% include figure.html file="/assets/nandos/login-new.png" caption="**Left**: the combined registration and sign in form as it appears on arrival. **Right**: the form has recognised the email address of a registered user, so shows the password field." alt="Recognising a registered user" %}
 
 As we prepared for launch, I worked with the analytics team to ensure their <mark>tracking specification</mark> included events and measures we could use later to assess performance and target areas for improvement.
 

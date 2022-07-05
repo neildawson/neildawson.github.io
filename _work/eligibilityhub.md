@@ -16,14 +16,14 @@ introduction: >
 responsibilities:
   - "Identifying opportunities and setting direction"
   - "Overseeing a midweight designer"
-  - "Desk and competitor research"
+  - "Desk, competitor, and analogous research"
   - "Facilitating an ideation workshop"
   - "Exploring feasibility with devs"
-  - "UX, UI, and concept testing for one area of the feature"
+  - "UX, UI, and concept testing"
 results:
   - "Over 60% of monthly active users (MAU) viewed a factor impacting their credit"
   - "Over 20% of MAU took a suggested action to improve"
-  - "A well-received vision for our product, and purpose for our new team"
+  - "Now a primary growth driver for the product"
 ---
 
 ## Challenges
@@ -70,40 +70,53 @@ Many factors (some of which I mentioned in the previous section) are foundationa
 
 <mark>I advocated for the creation of a modular system</mark> for factors. This would allow us to reuse our work in other areas in the future, and keep a consistent experience between factors.
 
+{% include figure.html file="/assets/eligibilityhub/atomic-actions.png" caption="Excerpts from my presentation to the company about the project and my Atomic Actions proposal. I used the Lego blocks metaphor to show how we could save time and improve consistency across different journeys." %}
+
 I called this proposal “Atomic Actions”, pinching the “atomic” concept from [Brad Frost’s Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/). <mark>This became a guiding principle for the project</mark>, and it was received enthusiastically when I presented it in a company-wide meeting.
 
 ## Design
 
-### Sharing work with another designer
+### The hub
 
-The PM, PD and I operated as a triad, making key decisions together, then distributing work amongst ourselves to play to our strengths and keep up momentum.
+![The credit health check in motion, showing personalised breakdown of factors holding you back from getting the best offers]({{ "/assets/eligibilityhub/dynamic-actions.gif" }})
 
-In addition to the strategic work described above, I handled the missed payments factor from end to end:
-- Desk and analogous research
+I supported and guided the PD, which I found really rewarding. She was mostly responsible for the hub itself, and we collaborated to establish a template that worked for all factors, choose entry points, plot out the journey, prioritise and label factors, and write clear and sympathetic descriptions.
+
+### Missed payments
+
+In addition to the strategic work described above, <mark>I handled the missed payments factor from end to end</mark>:
+- Desk, competitor, and analogous research
+- Investigating principles for behaviour change
 - User journey map
 - Facilitating an ideation workshop
 - Ideating and prototyping solutions in Figma
-- Concept testing a contentious idea (ask me about it!)
+- Concept and usability testing
+- Feasibility investigations with a front-end dev
 - Constructing the UI with our component library
 
-I supported and guided the PD where needed, which I found really rewarding. She was responsible for most of the UX of the hub itself. In some areas we worked together:
+{% include figure.html file="/assets/eligibilityhub/experience-map.png" caption="I made this experience map, based on research findings, to help ideation workshop attendees understand the problem area and see things from another perspective." alt="The experience map shows the journey of a customer who misses a payment, at each step noting their thoughts, pain points, and opportunities." full-width="true" %}
 
-- Exploring entry points for the journey
-- How to prioritise and label factors
-- Writing clear and sympathetic descriptions, in collaboration with the copy team
+
 
 ### The first missed payments action
 
-I worked closely with one of our front-end devs, who carried out a few quick “spikes” to assess the technical feasibility of each solution. <mark>We settled on a simple reminder system we could build quickly to validate the concept</mark>, piggybacking on iOS and Android calendar functionality to get some features for free.
+I explored lots of possibilities for the first action, like searching for direct debit instructions, searching for your lender's contact details, and setting up a reminder. <mark>We were looking for something simple, lovable, and complete</mark> that we could build quickly to validate the concept.
 
-## Results and reflection
+Setting up a reminder was the most promising opportunity, and there were lots of ways to do this, too. We considered using our newly minted push notification system, email reminders, and integrating with the calendar or reminders apps on your phone.
 
-![The credit health check in motion, showing personalised breakdown of factors holding you back from getting the best offers]({{ "/assets/eligibilityhub/dynamic-actions.gif" | absolute_url }})
+I worked closely with one of our front-end devs, who carried out a few quick “spikes” to assess the technical feasibility of each option. <mark>He and I decided to provide reminders through integration with the iOS and Android calendar</mark>, piggybacking existing functionality to get some features for free, like editing and push notifications.
+
+<figure>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/zswYOL1WA70?controls=0' frameborder='0' allowfullscreen></iframe></div>
+<figcaption><p>I designed the screens for the missed payment factor in Figma, and made this prototype to demonstrate the process of setting up a reminder. At the end I show what happens when the customer denies the request to access their calendar.</p></figcaption>
+</figure>
+
+Every factor also included two generic actions: disputing incorrect information on your report, and adding a correction to your report.
+
+## Results
 
 The credit health check launched in January 2022. In its first 6 months over 60% of monthly active users (MAU) viewed a factor impacting their credit, and <mark>over 20% of MAU took a suggested action</mark>. The missed payments factor was the most interacted with. As a bonus, rates of customers reporting errors in their credit report rose noticeably.
 
-After my departure, Mission Improve dangled this carrot in front of customers through emails, push notifications, and additional entry points. <mark>It has become a primary growth driver for the product</mark>.
+Mission Improve dangled this carrot in front of customers through emails, push notifications, and additional entry points. <mark>It has become a primary growth driver for the product</mark>.
 
 Defining our ways of working together with the squad was one of my most rewarding experiences at TotallyMoney. I’m particularly pleased with the triad the PM, PD, and I established. It’s an effective, reassuring structure that I’d like to replicate in future, ideally with a dev in the mix too.
-
-Looking back, there was a key point where we took stock of all the workstreams for this project and divided them amongst ourselves and a few other contributors. Before, the PD had been managing this mostly on her own. On reflection I see that this is just the kind of stuff I struggled with as a junior and mid-weight, so in future I’d do this much sooner, if not from the outset, to bring clarity and confidence, and improve pace.
