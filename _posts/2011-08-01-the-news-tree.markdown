@@ -13,31 +13,31 @@ categories:
 
 All News Trees begin life as a blank canvas:
 
-![An empty news tree]({{ "/assets/knightmozilla/blank.png" | absolute_url }})
+![An empty news tree]({{ "/assets/knightmozilla/blank.png" }})
 
 To grow a news tree, the user must provide an ‘acorn’ (a document, link or other piece of media which can be mined for information) or use the built-in tools to find one. With HTML5 we can accept pasted links or files dragged from the desktop, making it easy to get started.
 
 The user can add sources of their own or search for new acorns:
 
-![Adding and finding sources]({{ "/assets/knightmozilla/Add1.png" | absolute_url }})
+![Adding and finding sources]({{ "/assets/knightmozilla/Add1.png" }})
 
 Narrowing the search to a particular region and period of time allows us to pinpoint primary sources – invaluable to a well-rounded story. If the user does not provide these details the system will try to retrieve it from the supplied source.
 
 Trees are born from acorns:
 
-![An acorn]({{ "/assets/knightmozilla/Add2.png" | absolute_url }})
+![An acorn]({{ "/assets/knightmozilla/Add2.png" }})
 
 The user can build a tree entirely from their own sources (for example, to demonstrate the core elements of a story, or highlight a particular viewpoint) or use the branch tool to find a myriad of sources before pruning their tree down to size.
 
 'Add source', 'prune' and 'branch' (the verb!):
 
-![Adding, pruning, and branching]({{ "/assets/knightmozilla/Buttons.png" | absolute_url }})
+![Adding, pruning, and branching]({{ "/assets/knightmozilla/Buttons.png" }})
 
 There are three simple controls available to the user: + opens the add source dialog, – enables pruning mode where branches or comments can be removed, and the branch tool forces growth in a branch or acorn, drawing more sources around it.
 
 This acorn has branched three relevant sources:
 
-![New branches]({{ "/assets/knightmozilla/Add4.png" | absolute_url }})
+![New branches]({{ "/assets/knightmozilla/Add4.png" }})
 
 ### Behind the Scenes
 
@@ -49,7 +49,7 @@ Sources are rated by relevance (measured by matching keywords, shared branches e
 
 Metrics and metadata directly influence the appearance of objects in the visualisation:
 
-![Key]({{ "/assets/knightmozilla/Key.png" | absolute_url }})
+![Key]({{ "/assets/knightmozilla/Key.png" }})
 
 Developers and designers would work closely with researchers and journalists to gather [heuristics](http://en.wikipedia.org/wiki/Heuristic) and build a library of reliable first sources in order to refine the search algorithm.
 

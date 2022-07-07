@@ -19,15 +19,15 @@ Rather than relying on data-scrapers and search algorithms to locate every sourc
 
 The user locates a source they wish to share:
 
-![Locating a source]({{ "/assets/knightmozilla/1.jpg" | absolute_url }})
+![Locating a source]({{ "/assets/knightmozilla/1.jpg" }})
 
 They add it to the tree by copy-and-pasting, or clicking-and-dragging:
 
-![Adding to a tree]({{ "/assets/knightmozilla/2.jpg" | absolute_url }})  
+![Adding to a tree]({{ "/assets/knightmozilla/2.jpg" }})  
 
 The Tree draws links with existing content based on metadata:
 
-![Drawing links]({{ "/assets/knightmozilla/3.jpg" | absolute_url }})  
+![Drawing links]({{ "/assets/knightmozilla/3.jpg" }})  
 
 With HTML5 we can drag-and-drop files (ala [DropMocks](http://www.dropmocks.com/)) and by simply using URLs and files we mostly sidestep two problems:
 
