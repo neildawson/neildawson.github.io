@@ -78,7 +78,7 @@ Our next alert informed customers of new accounts appearing on their credit repo
 
 ### A call to action outperformed an explanation
 
-![A live alert about a new account on your credit report]({{ "/assets/livealerts/live-alerts.gif" | absolute_url }})
+![A live alert about a new account on your credit report]({{ "/assets/livealerts/live-alerts.gif" }})
 
 We ran an A/B test to learn a bit about how copy in a push notification affects open rates.
 
