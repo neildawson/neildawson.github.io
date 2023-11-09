@@ -10,26 +10,32 @@ layout: article
 
 <p class="description"><mark>I fight for the users</mark>.</p>
 
-With a background in both computing and design, I work closely with tech, product, and other stakeholders to create successful products.
+With a background in both computing and design, I work closely with product, engineering, business leaders, and other stakeholders to create successful products.
 
 For professional enquiries, you can contact me on [LinkedIn](http://www.linkedin.com/in/neildawson) and download [my abridged CV](Neil%20Dawson%20CV.pdf) as a PDF.
 
 ## Skills
 
 - **Product strategy**  
-Identifying opportunities, interpreting business goals, working in tandem with product managers
+Identifying opportunities, aligning with business goals, working in triads with product and engineering
 - **Research**  
-Planning, facilitating, and analysing, particularly for evaluative studies
-- **Concepting and prototyping**  
-Ideation, sketching, Figma, Axure RP, HTML & CSS
+Planning, facilitating, and analysing evaluative and generative studies
+- **Ideation and prototyping**  
+Workshopping, sketching, Miro, Figma, Axure RP, HTML & CSS
 - **Experience design**  
 Information architecture, UX writing, interaction design, and a wee bit of UI design
-- **Communication and storytelling**  
+- **Communication and advocation**  
 Writing, public speaking, facilitating
-- **Mentoring**  
-Supporting and guiding junior designers
+- **Leadership**  
+Overseeing and supporting other designers, refining team practices
 
 ## Experience
+
+### Senior Experience Designer, People Make
+July 2019 - January 2022
+
+- Embedded in multiple product squads at <a href="https://vega.xyz/" target="_blank">VEGA</a>, a decentralised trading blockchain, improving experiences from <a href="https://docs.vega.xyz/" target="_blank">developer documentation</a> to the <a href="https://console.vega.xyz/" target="_blank">customer trading console</a>.
+- Later switched to <mark>start-up</mark> mode for People Make’s in-house product, <a href="https://www.renovatewithreno.co.uk/" target="_blank">*Reno*</a>, a bathroom planning app now seeking investment.
 
 ### Lead Product Designer, TotallyMoney
 July 2019 - January 2022
@@ -48,7 +54,7 @@ July 2019 - January 2022
 September 2015 - September 2018
 
 - Worked in close-knit squads with tech, production, data, the clients themselves, and other disciplines.
-- Led feature planning, prototyping, and guerrilla testing of [*Nando's* delivery and collection service]({% link _work/nandos.md %}) , boosting conversions by over 40%.
+- Led feature planning, prototyping, and guerrilla testing of [*Nando's* delivery and collection service]({% link _work/nandos.md %}), boosting conversions by over 40%.
 - Multiple projects for <mark>HSBC</mark>:
 	- Redesigned and oversaw user testing of key journeys in the new <mark>customer banking app</mark>, from flows to pixel-perfect prototypes.
 	- Overhauled the information architecture and data interface of the <a href="https://www.assetmanagement.hsbc.co.uk/en/individual-investor/fund-centre" target="_blank">*Global Fund Centre*</a>.

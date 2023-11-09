@@ -26,7 +26,7 @@ In short: it's a microcosm of the design process which gives rapid results.
 
 Calum & Penny distill the four-day [Design Sprint 2.0](https://www.invisionapp.com/inside-design/design-sprint-2/) process (an evolution of [Jake Knapp’s five-day process](https://www.thesprintbook.com/)) into a hands-on two-day workshop.
 
-![Drawing crazy 8s, a design sprint brainstorming activity]({{ "/assets/blog/designsprint.jpg" | absolute_url }})
+![Drawing crazy 8s, a design sprint brainstorming activity]({{ "/assets/blog/designsprint.jpg" }})
 
 In their words, “anyone can read the book, but often that’s not enough to feel able to confidently identify a challenge, influence teams and run a sprint.” Therefore the workshop is run as a mock sprint on a lightning schedule, where attendees get practical experience in every activity and insight from a pair of seasoned facilitators.
 
