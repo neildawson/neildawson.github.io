@@ -12,13 +12,15 @@ I'd also like to flesh this out into a photobook to share with my friends and fa
 
 Here are a few of my favourite photos:
 
-![Tehran at night]({{ "/assets/iran/tehran.jpg" }})
+{% include figure.html file="/assets/iran/tehran.jpg" alt="Tehran cityscape as seen from my hotel window, with Milad Tower in the distance." caption="Tehran cityscape as seen from my hotel window, with Milad Tower in the distance." %}
 
-![Travellers and workers by a pistachio field]({{ "/assets/iran/pistachios.jpg" }})
+{% include figure.html file="/assets/iran/pistachios.jpg" alt="On our way from Yazd to Kerman we travelled through Iran’s main pistachio growing region. The coach pulled over to let us see the pistachio trees and I gestured to ask permission to photograph these workers chatting by the road." caption="On our way from Yazd to Kerman we travelled through Iran’s main pistachio growing region. The coach pulled over to let us see the pistachio trees and I gestured to ask permission to photograph these workers chatting by the road." full-width="true" %}
 
-![Berries, freshly picked and washed]({{ "/assets/iran/berries.jpg" }})
+{% include figure.html file="/assets/iran/berries.jpg" alt="Later we were dropped off at a park for a picnic of cucumber, tomatoes, peppers, feta, crisps, watermelon and little sweet biscuits. I was mystified to see one of the coach drivers climbing then shaking a tree in the distance. All became clear when he returned bearing a bowl of fresh mulberries for us! Here he is washing them." caption="Later we were dropped off at a park for a picnic of cucumber, tomatoes, peppers, feta, crisps, watermelon and little sweet biscuits. I was mystified to see one of the coach drivers climbing then shaking a tree in the distance. All became clear when he returned bearing a bowl of fresh mulberries for us! Here he is washing them." %}
 
-![Camel handler in Saryazd]({{ "/assets/iran/camels.jpg" }})
+{% include figure.html file="/assets/iran/henna.jpg" alt="Our first stop on the 5th was a mill where henna is ground and packaged. Once powered by camels, this millstone was turned by a motorised trolley running around the circular track. You can see another in the background. The rays of sunlight and domed ceiling gave this functional space an unexpected holy atmosphere." caption="Our first stop on the 5th was a mill where henna is ground and packaged. Once powered by camels, this millstone was turned by a motorised trolley running around the circular track. You can see another in the background. The rays of sunlight and domed ceiling gave this functional space an unexpected holy atmosphere." full-width="true" %}
+
+{% include figure.html file="/assets/iran/camels.jpg" alt="In Sar Yazd I had a short camel ride. It was uncomfortable, but at least I got this nice photo!" caption="In Sar Yazd I had a short camel ride. It was uncomfortable, but at least I got this nice photo!" %}
 
 ## Why Iran?
 

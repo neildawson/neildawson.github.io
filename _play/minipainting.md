@@ -1,7 +1,7 @@
 ---
 title: "Miniature Painting"
 date: 2023-09-02
-description: "Building tiny armies"
+description: "Making tiny armies for tiny battles"
 ---
 
 During the first lockdown I received a surprise delivery from a friend: a box of small plastic figures, some paints, and a brush.
@@ -12,14 +12,10 @@ Since that first box I've enjoyed painting and photographing more miniatures, re
 
 Here are a few selections from [my mini painting Instagram account](https://www.instagram.com/archaeovist/).
 
-{% include figure.html file="/assets/minipainting/assaultintercessors.jpg" alt="A squad of five space marines" caption="A squad of five space marines" full-width="true" %}
+{% include figure.html file="/assets/minipainting/assaultintercessors.jpg" alt="A squad of five space marines." caption="A squad of five space marines. For an idea of size, each of their bases is 32mm in diameter." full-width="true" %}
 
-{% include figure.html file="/assets/minipainting/90smarine.jpg" alt="A classic 90s space marine painted for a community challenge" caption="A squad of five space marines" %}
+{% include figure.html file="/assets/minipainting/90smarine.jpg" alt="A classic 90s space marine painted for a community challenge." caption="A classic 90s space marine painted for a community challenge." %}
 
-![Diorama of a knight duelling an elf]({{ "/assets/minipainting/sigmar1.jpg" }})
+{% include figure.html file="/assets/minipainting/sigmar2.jpg" alt="Closeup of an elf duelling a knight." caption="Closeup of an elf duelling a knight." %}
 
-![Elf close-up]({{ "/assets/minipainting/sigmar2.jpg" }})
-
-![Terminator with glowing hammer]({{ "/assets/minipainting/terminator1.jpg" }})
-
-![Terminator with glowing hammer]({{ "/assets/minipainting/terminator2.jpg" }})
+{% include figure.html file="/assets/minipainting/skorpekh.jpg" alt="A robot warrior with a glowing blade." caption="A robot warrior with a glowing blade." %}
