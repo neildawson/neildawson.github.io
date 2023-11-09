@@ -4,9 +4,9 @@ date: 2019-01-19
 description: "Dabbles in travel, portrait, and wedding photography"
 ---
 
-I was first encouraged to pick up a camera by my art teachers, Mr Walker and Mr Wotherspoon, in 2005. The one they lent me used a floppy disk as a memory card!
+I was first encouraged to pick up a camera by my art teachers, Mr Walker and Mr Wotherspoon, in 2005. It used a floppy disk as a memory card!
 
-These days I'm mostly content to capture memories for my [yearbooks]({% link _play/yearbooks.md %}) on my smartphone, but I occasionally pull out the SLR for travel, portrait, and [miniature photography]({% link _play/minipainting.md %}). I've even shot a few weddings in my time.
+These days I'm mostly content to capture memories for my [yearbooks]({% link _play/yearbooks.md %}) on my smartphone, but I occasionally pull out the DSLR and tripod for [travel]({% link _play/iran.md %}), portrait, and [miniature photography]({% link _play/minipainting.md %}). I've even shot a few weddings in my time.
 
 Here are some of my favourites.
 
@@ -22,4 +22,4 @@ Here are some of my favourites.
 
 {% include figure.html file="/assets/photography/stpauls.jpg" alt="The dome of St. Paul's Cathedral, London, England." caption="The dome of St. Paul's Cathedral, London, England." %}
 
-{% include figure.html file="/assets/photography/rainroom.jpg" alt="Dancers silhouetted in the artifical drizzle of the Rain Room, Barbican Arts Centre, London." caption="The dome of St. Paul's Cathedral, London, England." %}
+{% include figure.html file="/assets/photography/rainroom.jpg" alt="Dancers silhouetted in the artifical drizzle of the Rain Room, Barbican Arts Centre, London." caption="Dancers silhouetted in the artifical drizzle of the Rain Room, Barbican Arts Centre, London." %}
