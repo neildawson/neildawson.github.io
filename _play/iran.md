@@ -1,12 +1,12 @@
 ---
 title: "Three Weeks in Iran"
-date: 2019-01-01
-description: "Documenting a three week coach tour of Iran with a dozen Kiwi pensioners"
+date: 2023-05-01
+description: "Recounting a three week coach tour of Iran with a dozen Kiwi pensioners"
 ---
 
 In 2013 I took 10,000 photographs on a tour of Iran.
 
-In 2023 I marked the anniversary by recounting the trip one photo at a time, each shared 10 years since the day it was taken. I accompanied them with words, sometimes from memory, sometimes from emails written in Iran and sent to my parents. It was surprisingly emotional!
+In 2023 I marked the anniversary by recounting the trip one photo at a time, each shared on social media 10 years since the day it was taken. I accompanied them with words, sometimes from memory, sometimes from emails written in Iran and sent to my parents. It was surprisingly emotional!
 
 I'd also like to flesh this out into a photobook to share with my friends and family.
 
