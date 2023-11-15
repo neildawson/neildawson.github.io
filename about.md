@@ -21,6 +21,6 @@ image: /assets/about/neil.jpg
 	<li>I had a letter read out on the final episode of <a href="https://en.wikipedia.org/wiki/Live_%26_Kicking" target="_blank"><em>Live & Kicking</em></a> hosted by Zoe Ball and Jamie Theakston.</li>
 </ul>
 
-<p>Stalk further on <a href="https://www.instagram.com/terminalveracity/" target="_blank">Instagram</a>, <a href="https://www.last.fm/user/deepthought" target="_blank">Last.fm</a>, and <a href="https://twitter.com/neildawson" target="_blank">Twitter</a>.</p>
+<p>Stalk further on <a href="https://www.setlist.fm/concerts/neildawson" target="_blank">setlist.fm</a>, <a href="https://www.last.fm/user/deepthought" target="_blank">Last.fm</a>, <a href="https://github.com/neildawson" target="_blank">GitHub</a>, and <a href="https://twitter.com/neildawson" target="_blank">Twitter</a>.</p>
 
 </section>

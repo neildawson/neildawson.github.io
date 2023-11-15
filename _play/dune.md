@@ -8,6 +8,4 @@ Designed for a team outing to Print Club London.
 
 ![Litany Against Fear poster]({{ "/assets/dune/poster.jpg" }})
 
-![I will not fear]({{ "/assets/dune/crop1.jpg" }})
-
 {% include figure.html file="/assets/dune/crop2.jpg" alt="Only I will remain" full-width="true" %}

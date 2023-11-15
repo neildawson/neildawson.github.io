@@ -32,7 +32,7 @@ Overseeing and supporting other designers, refining team practices
 ## Experience
 
 ### Senior Experience Designer, People Make
-July 2019 - January 2022
+August 2022 - November 2023
 
 - Embedded in multiple product squads at <a href="https://vega.xyz/" target="_blank">VEGA</a>, a decentralised trading blockchain, improving experiences from <a href="https://docs.vega.xyz/" target="_blank">developer documentation</a> to the <a href="https://console.vega.xyz/" target="_blank">customer trading console</a>.
 - Later switched to <mark>start-up</mark> mode for People Make’s in-house product, <a href="https://www.renovatewithreno.co.uk/" target="_blank">*Reno*</a>, a bathroom planning app now seeking investment.
