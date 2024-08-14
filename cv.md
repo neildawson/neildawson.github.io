@@ -31,6 +31,12 @@ Overseeing and supporting other designers, refining team practices
 
 ## Experience
 
+### Senior User Experience Designer: Tools, Rockstar Games
+February 2024 - Present
+
+### Senior Experience Designer (Contract), AnalogFolk
+November 2023 - December 2024
+
 ### Senior Experience Designer, People Make
 August 2022 - November 2023
 
