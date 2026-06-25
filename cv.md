@@ -31,20 +31,24 @@ Overseeing and supporting other designers, refining team practices
 
 ## Experience
 
-### Senior User Experience Designer: Tools, Rockstar Games
-February 2024 - Present
+### Associate Principal User Experience Designer: Tools, Rockstar Games
+Full time • On-site • February 2024 - Present
 
-### Senior Experience Designer (Contract), AnalogFolk
-November 2023 - December 2024
+Creating and improving software tools used by all game development disciplines in the creation of Rockstar Games projects.
+
+### Senior Experience Designer, AnalogFolk
+Contract • Remote • November 2023 - December 2024
+
+I was invited back to AF to help Visa improve the navigation of their many B2B websites around the world, helping customers discover products in their huge portfolio.
 
 ### Senior Experience Designer, People Make
-August 2022 - November 2023
+Full time • Hybrid • August 2022 - November 2023
 
 - Embedded in multiple product squads at <a href="https://vega.xyz/" target="_blank">VEGA</a>, a decentralised trading blockchain, improving experiences from <a href="https://docs.vega.xyz/" target="_blank">developer documentation</a> to the <a href="https://console.vega.xyz/" target="_blank">customer trading console</a>.
 - Later switched to <mark>start-up</mark> mode for People Make’s in-house product, <a href="https://www.renovatewithreno.co.uk/" target="_blank">*Reno*</a>, a bathroom planning app now seeking investment.
 
 ### Lead Product Designer, TotallyMoney
-July 2019 - January 2022
+Full-time • Hybrid • July 2019 - January 2022
 
 - <mark>Led design and product thinking</mark> across multiple product squads.
 - Coached and oversaw the work of other product designers.
@@ -57,7 +61,7 @@ July 2019 - January 2022
 - <mark>Documentation champion and nerd</mark>, maintaining an industry glossary, design project databases, and templates for team practices.
 
 ### Senior Experience Designer, AnalogFolk
-September 2015 - September 2018
+Full-time • On-site • September 2015 - September 2018
 
 - Worked in close-knit squads with tech, production, data, the clients themselves, and other disciplines.
 - Led feature planning, prototyping, and guerrilla testing of [*Nando's* delivery and collection service]({% link _work/nandos.md %}), boosting conversions by over 40%.
@@ -71,7 +75,7 @@ September 2015 - September 2018
 - Led <mark>rapid prototyping training</mark> for staff at AXA PPP Healthcare.
 
 ### Senior User Experience Designer, Cyber-Duck
-June 2011 - August 2015
+Full-time • On-site • June 2011 - August 2015
 
 - My first professional design role, where I progressed from Junior to Senior level.
 - UX designer and project manager on more than 15 client projects.
